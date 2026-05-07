@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SCL_MC Pin=R7-2
+Removed Pin From Net: NetName=SCL_MC Pin=R8-1
+Removed Pin From Net: NetName=SDA_MC Pin=R9-2
+Removed Pin From Net: NetName=SDA_MC Pin=R10-1
+Removed Pin From Net: NetName=SMBCLK Pin=RELE1-4
+Removed Pin From Net: NetName=SCL_F Pin=RELE1-5
+Removed Pin From Net: NetName=SDA_F Pin=RELE1-8
+Removed Pin From Net: NetName=SMBDAT Pin=RELE1-9
+Added Pin To Net: NetName=SMBDAT Pin=RELE1-4
+Added Pin To Net: NetName=SDA_F Pin=RELE1-5
+Added Pin To Net: NetName=SCL_F Pin=RELE1-8
+Added Pin To Net: NetName=SMBCLK Pin=RELE1-9
+Added Pin To Net: NetName=SDA_MC Pin=R7-2
+Added Pin To Net: NetName=SDA_MC Pin=R8-1
+Added Pin To Net: NetName=SCL_MC Pin=R9-2
+Added Pin To Net: NetName=SCL_MC Pin=R10-1

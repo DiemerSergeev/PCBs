@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=A0 Pin=D1-3
+Removed Pin From Net: NetName=R/W Pin=D1-7
+Added Pin To Net: NetName=A0 Pin=D1-4
+Added Pin To Net: NetName=R/W Pin=D1-6
+Added Room: Name=Formula connector
+Added Room: Name=MT-20S4A

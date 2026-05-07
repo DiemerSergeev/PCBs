@@ -1,0 +1,12 @@
+Added Component: Designator=KP1(Contact)
+Added Component: Designator=KP2(Contact)
+Added Component: Designator=KP3(Contact)
+Added Component: Designator=KP4(Contact)
+Added Pin To Net: NetName=SCL_LM Pin=KP1-1
+Added Pin To Net: NetName=GND Pin=KP2-1
+Added Pin To Net: NetName=SDA_LM Pin=KP3-1
+Added Pin To Net: NetName=VCC_LM Pin=KP4-1
+Added Member To Class: ClassName=Sheet1 Member=Component KP1 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP2 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP3 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP4 Contact

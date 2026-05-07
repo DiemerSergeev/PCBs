@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ON_RELE6 Pin=X1-OUT4
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=ON_RELE6 Pin=X1-OUT8
+Added Member To Class: ClassName=MT-20S4A Member=Component VT1 MMBT5551L

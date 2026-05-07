@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+5V Pin=X3-1
+Removed Pin From Net: NetName=GND_KY Pin=X3-3
+Removed Member From Class: ClassName=AD592BNZ Member=X3
+Added Component: Designator=X1.KY(PLD6-2,54)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Вилка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "Вилка PLD2-2 *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typ"; Value = "PLD2-2"; VariantName = "[No Variations]"
+Added Component: Designator=X2.KY(AD592)
+Change Net Name : Old Net Name=GND_KY New Net Name=GND
+Added Pin To Net: NetName=GND_KY Pin=X1.KY-1
+Added Pin To Net: NetName=GND_KY Pin=X1.KY-3
+Added Pin To Net: NetName=GND_KY Pin=X1.KY-4
+Added Pin To Net: NetName=GND_KY Pin=X1.KY-5
+Added Pin To Net: NetName=GND_KY Pin=X1.KY-6
+Added Pin To Net: NetName=GND_KY Pin=X2.KY-3
+Added Net: Name=GND_KY
+Added Pin To Net: NetName=V+_KY Pin=X1.KY-2
+Added Pin To Net: NetName=V+_KY Pin=X2.KY-1
+Added Net: Name=V+_KY
+Added Member To Class: ClassName=AD592BNZ Member=Component X1.KY PLD6-2,54
+Added Member To Class: ClassName=AD592BNZ Member=Component X2.KY AD592BNZ
+Added Room: Name=AD592BNZ

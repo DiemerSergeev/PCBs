@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AM1d-240505DZ.PrjPcb]
+   Generated File[AM1D-240505DZ.TXT]
+   Generated File[AM1D-240505DZ.LDP]
+   Generated File[AM1D-240505DZ.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:52:50 On 18.12.2024

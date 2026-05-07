@@ -1,0 +1,7 @@
+Added Component: Designator=D2(SO-8 to PLS-8)
+Added Pin To Net: NetName=EVENT_DS Pin=D2-1
+Added Pin To Net: NetName=ALARM_DS Pin=D2-3
+Added Pin To Net: NetName=GND_DS Pin=D2-4
+Added Pin To Net: NetName=SCL_DS Pin=D2-5
+Added Pin To Net: NetName=SDA_DS Pin=D2-6
+Added Pin To Net: NetName=VCC_DS Pin=D2-8

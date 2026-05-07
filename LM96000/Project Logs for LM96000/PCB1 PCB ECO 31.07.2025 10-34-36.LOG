@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SDA_F Pin=X4-5
+Removed Pin From Net: NetName=SCL_F Pin=X4-6
+Removed Pin From Net: NetName=PWM1 Pin=X4-11
+Removed Pin From Net: NetName=PWM2 Pin=X4-12
+Removed Pin From Net: NetName=PWM3 Pin=X4-13
+Removed Pin From Net: NetName=ADDRESS_ENABLE Pin=X4-14
+Added Pin To Net: NetName=SDA_F Pin=X4-10
+Added Pin To Net: NetName=SCL_F Pin=X4-11
+Added Pin To Net: NetName=PWM1 Pin=X4-12
+Added Pin To Net: NetName=PWM2 Pin=X4-13
+Added Pin To Net: NetName=PWM3 Pin=X4-14
+Added Pin To Net: NetName=ADDRESS_ENABLE Pin=X4-15

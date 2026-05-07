@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RELE4 Pin=D1-12X3
+Removed Pin From Net: NetName=RELE3 Pin=D1-14X3
+Added Pin To Net: NetName=RELE3 Pin=D1-12X3
+Added Pin To Net: NetName=RELE4 Pin=D1-14X3

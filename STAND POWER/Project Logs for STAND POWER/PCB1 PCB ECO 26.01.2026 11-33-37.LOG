@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetC65_2 Pin=C70-1
+Added Pin To Net: NetName=NetC65_2 Pin=C71-1
+Change Net Name : Old Net Name=NetC65_2 New Net Name=-12V

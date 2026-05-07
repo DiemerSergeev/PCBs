@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=+5V Pin=X1-3
+Added Member To Class: ClassName=AD592BNZ Member=Component C1 C0805
+Added Member To Class: ClassName=AD592BNZ Member=Component R3 R0805 Yageo
+Added Member To Class: ClassName=AD592BNZ Member=Component R4 R0805 Yageo
+Added Member To Class: ClassName=AD592BNZ Member=Component R5 R0805 Yageo
+Added Room: Name=AD592BNZ

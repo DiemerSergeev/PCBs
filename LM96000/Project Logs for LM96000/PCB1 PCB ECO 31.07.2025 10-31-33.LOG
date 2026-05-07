@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VID4 Pin=D1-16X3
+Removed Pin From Net: NetName=VID3 Pin=D1-17X3
+Removed Pin From Net: NetName=VID1 Pin=D1-19X3
+Removed Pin From Net: NetName=VID0 Pin=D1-20X3
+Added Pin To Net: NetName=VID0 Pin=D1-16X3
+Added Pin To Net: NetName=VID1 Pin=D1-17X3
+Added Pin To Net: NetName=VID3 Pin=D1-19X3
+Added Pin To Net: NetName=VID4 Pin=D1-20X3

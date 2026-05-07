@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SMBCLK_LM Pin=SMBCLK-1
+Removed Pin From Net: NetName=SMBDAT_LM Pin=SMBDAT-1
+Added Pin To Net: NetName=SMBDAT Pin=SMBDAT-1
+Added Pin To Net: NetName=SMBCLK Pin=SMBCLK-1

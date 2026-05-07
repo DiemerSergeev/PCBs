@@ -1,0 +1,25 @@
+Added Component: Designator=X1(BP BANAN)
+Added Component: Designator=X2(BP BANAN)
+Added Component: Designator=X3(BP BANAN)
+Added Component: Designator=X4(CK-S)
+Added Component: Designator=X5(BP BANAN)
+Added Component: Designator=X6(BP BANAN)
+Added Component: Designator=X7(BP BANAN)
+Added Component: Designator=X8(CK-S)
+Added Pin To Net: NetName=FUSE+ Pin=X1-1
+Added Pin To Net: NetName=FUSE+ Pin=X2-1
+Added Pin To Net: NetName=FUSE- Pin=X3-1
+Added Pin To Net: NetName=FUSE+ Pin=X4-1
+Added Pin To Net: NetName=LOAD- Pin=X5-1
+Added Pin To Net: NetName=FUSE- Pin=X6-1
+Added Pin To Net: NetName=LOAD- Pin=X7-1
+Added Pin To Net: NetName=FUSE- Pin=X8-1
+Added Member To Class: ClassName=Sheet1 Member=Component X1 BP-BANAN
+Added Member To Class: ClassName=Sheet1 Member=Component X2 BP-BANAN
+Added Member To Class: ClassName=Sheet1 Member=Component X3 BP-BANAN
+Added Member To Class: ClassName=Sheet1 Member=Component X4 CK-S
+Added Member To Class: ClassName=Sheet1 Member=Component X5 BP-BANAN
+Added Member To Class: ClassName=Sheet1 Member=Component X6 BP-BANAN
+Added Member To Class: ClassName=Sheet1 Member=Component X7 BP-BANAN
+Added Member To Class: ClassName=Sheet1 Member=Component X8 CK-S
+Added Room: Name=Sheet1

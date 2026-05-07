@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ALERT_MAX Pin=K1-4
+Removed Pin From Net: NetName=ALERT_F Pin=K1-5
+Added Pin To Net: NetName=ALERT_F Pin=K1-8
+Added Pin To Net: NetName=ALERT_MAX Pin=K1-9
+Added Pin To Net: NetName=NetK1_10 Pin=K1-10
+Added Pin To Net: NetName=NetK1_10 Pin=R9-1
+Added Net: Name=NetK1_10

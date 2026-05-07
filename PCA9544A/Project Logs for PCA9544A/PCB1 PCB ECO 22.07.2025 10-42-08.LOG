@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=INT2_PCA Pin=K5-4
+Removed Pin From Net: NetName=INT2_F Pin=K5-5
+Removed Pin From Net: NetName=INT3_F Pin=K5-8
+Removed Pin From Net: NetName=INT3_PCA Pin=K5-9
+Added Pin To Net: NetName=INT3_PCA Pin=K5-4
+Added Pin To Net: NetName=INT3_F Pin=K5-5
+Added Pin To Net: NetName=INT2_F Pin=K5-8
+Added Pin To Net: NetName=INT2_PCA Pin=K5-9

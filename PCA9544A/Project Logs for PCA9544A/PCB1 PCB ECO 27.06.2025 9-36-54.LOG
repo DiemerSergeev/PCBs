@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=RELE6 Pin=R33-1
+Removed Pin From Net: NetName=RELE4 Pin=R34-1
+Removed Pin From Net: NetName=RELE2 Pin=R35-1
+Removed Pin From Net: NetName=RELE1 Pin=R36-1
+Removed Pin From Net: NetName=RELE7 Pin=R47-1
+Removed Pin From Net: NetName=RELE5 Pin=R48-1
+Removed Pin From Net: NetName=RELE3 Pin=R49-1
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-5
+Add Pin To Net: Unknown Pin: Pin D2-6
+Add Pin To Net: Unknown Pin: Pin D2-7
+Add Pin To Net: Unknown Pin: Pin D2-8
+Add Pin To Net: Unknown Pin: Pin D2-9
+Add Pin To Net: Unknown Pin: Pin D2-10
+Add Pin To Net: Unknown Pin: Pin D2-11
+Add Pin To Net: Unknown Pin: Pin D2-12
+Add Pin To Net: Unknown Pin: Pin D2-13
+Add Pin To Net: Unknown Pin: Pin D2-14
+Add Pin To Net: Unknown Pin: Pin D2-15
+Add Pin To Net: Unknown Pin: Pin D2-16
+Add Pin To Net: Unknown Pin: Pin D2-17
+Add Pin To Net: Unknown Pin: Pin D2-18
+Add Pin To Net: Unknown Pin: Pin D2-19
+Add Pin To Net: Unknown Pin: Pin D2-20
+Add Pin To Net: Unknown Pin: Pin D2-21
+Added Pin To Net: NetName=RELE1 Pin=R33-1
+Added Pin To Net: NetName=RELE2 Pin=R34-1
+Added Pin To Net: NetName=RELE3 Pin=R35-1
+Added Pin To Net: NetName=RELE4 Pin=R36-1
+Added Pin To Net: NetName=RELE5 Pin=R47-1
+Added Pin To Net: NetName=RELE6 Pin=R48-1
+Added Pin To Net: NetName=RELE7 Pin=R49-1

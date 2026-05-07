@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=INT_PCA Pin=R6-1
+Removed Pin From Net: NetName=INT_MC Pin=R6-2
+Removed Pin From Net: NetName=INT_MC Pin=R54-1
+Added Pin To Net: NetName=INT_MC Pin=R6-1
+Added Pin To Net: NetName=INT_PCA Pin=R6-2
+Added Pin To Net: NetName=INT_PCA Pin=R54-1

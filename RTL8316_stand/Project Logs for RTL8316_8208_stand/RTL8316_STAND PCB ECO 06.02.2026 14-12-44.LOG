@@ -1,0 +1,36 @@
+Added Component: Designator=TP5(PLS-1)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/keystone-electronics/5001/36-5001-ND/255327"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Test point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Test point, Keystone, 5001"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(PLS-1)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/keystone-electronics/5001/36-5001-ND/255327"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Test point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Test point, Keystone, 5001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=TP5-1
+Added Pin To Net: NetName=DGND Pin=TP6-1
+Added Member To Class: ClassName=POWER_TOP Member=Component TP5 Test point, Keystone, 5001
+Added Member To Class: ClassName=POWER_TOP Member=Component TP6 Test point, Keystone, 5001
+Added Room: Name=POWER_TOP
+Added Room: Name=RJ45_1
+Added Room: Name=RJ45_2
+Added Room: Name=RJ45_3
+Added Room: Name=RJ45_4
+Added Room: Name=RJ45_5
+Added Room: Name=RJ45_6
+Added Room: Name=RJ45_7
+Added Room: Name=RJ45_8
+Added Room: Name=RJ45_9
+Added Room: Name=RJ45_10
+Added Room: Name=RJ45_11
+Added Room: Name=RJ45_12
+Added Room: Name=RJ45_13
+Added Room: Name=RJ45_14
+Added Room: Name=RJ45_15
+Added Room: Name=RJ45_16
+Added Room: Name=U_INTERFACE
+Added Room: Name=U_LED_RESET_XCO
+Added Room: Name=U_RJ-45_OUTPUT

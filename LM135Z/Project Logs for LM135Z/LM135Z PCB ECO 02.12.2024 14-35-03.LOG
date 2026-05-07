@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VOUT_F Pin=X4-17
+Added Pin To Net: NetName=VOUT_F Pin=X4-1

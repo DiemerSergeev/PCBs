@@ -1,0 +1,24 @@
+Added Component: Designator=X1(PV)
+Added Component: Designator=X2(PV)
+Added Component: Designator=X3(PV)
+Added Component: Designator=X4(PV)
+Added Pin To Net: NetName=PV2+ Pin=D2-8
+Added Pin To Net: NetName=PV2+ Pin=D2-8
+Added Pin To Net: NetName=PV2+ Pin=X1-1
+Added Net: Name=PV2+
+Added Pin To Net: NetName=PV2- Pin=D2-6
+Added Pin To Net: NetName=PV2- Pin=D2-6
+Added Pin To Net: NetName=PV2- Pin=X2-1
+Added Net: Name=PV2-
+Added Pin To Net: NetName=PV3+ Pin=D2-16
+Added Pin To Net: NetName=PV3+ Pin=D2-16
+Added Pin To Net: NetName=PV3+ Pin=X3-1
+Added Net: Name=PV3+
+Added Pin To Net: NetName=PV3- Pin=D2-14
+Added Pin To Net: NetName=PV3- Pin=D2-14
+Added Pin To Net: NetName=PV3- Pin=X4-1
+Added Net: Name=PV3-
+Added Member To Class: ClassName=Sheet1 Member=Component X1 PV
+Added Member To Class: ClassName=Sheet1 Member=Component X2 PV
+Added Member To Class: ClassName=Sheet1 Member=Component X3 PV
+Added Member To Class: ClassName=Sheet1 Member=Component X4 PV

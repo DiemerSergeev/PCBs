@@ -1,0 +1,34 @@
+Added Component: Designator=XS3(KU-DC/DC)
+Added Pin To Net: NetName=SEN+ Pin=XS3-1
+Added Pin To Net: NetName=SEN+ Pin=XS3-1
+Added Pin To Net: NetName=in+ Pin=XS3-2
+Added Pin To Net: NetName=in+ Pin=XS3-2
+Added Pin To Net: NetName=in+ Pin=XS3-2
+Added Pin To Net: NetName=in+ Pin=XS3-2
+Added Pin To Net: NetName=in+ Pin=XS3-2
+Added Pin To Net: NetName=in+ Pin=XS3-2
+Added Pin To Net: NetName=SEN- Pin=XS3-3
+Added Pin To Net: NetName=SEN- Pin=XS3-3
+Added Pin To Net: NetName=in- Pin=XS3-4
+Added Pin To Net: NetName=in- Pin=XS3-4
+Added Pin To Net: NetName=in- Pin=XS3-4
+Added Pin To Net: NetName=in- Pin=XS3-4
+Added Pin To Net: NetName=in- Pin=XS3-4
+Added Pin To Net: NetName=in- Pin=XS3-4
+Added Pin To Net: NetName=out- Pin=XS3-5
+Added Pin To Net: NetName=out- Pin=XS3-5
+Added Pin To Net: NetName=out- Pin=XS3-5
+Added Pin To Net: NetName=out- Pin=XS3-5
+Added Pin To Net: NetName=out- Pin=XS3-5
+Added Pin To Net: NetName=out- Pin=XS3-5
+Added Pin To Net: NetName=PV- Pin=XS3-6
+Added Pin To Net: NetName=PV- Pin=XS3-6
+Added Pin To Net: NetName=out+ Pin=XS3-7
+Added Pin To Net: NetName=out+ Pin=XS3-7
+Added Pin To Net: NetName=out+ Pin=XS3-7
+Added Pin To Net: NetName=out+ Pin=XS3-7
+Added Pin To Net: NetName=out+ Pin=XS3-7
+Added Pin To Net: NetName=out+ Pin=XS3-7
+Added Pin To Net: NetName=PV+ Pin=XS3-8
+Added Pin To Net: NetName=PV+ Pin=XS3-8
+Added Member To Class: ClassName=V24Cxx(Micro)_Sh1 Member=Component XS3 ACDC_socket

@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=AD592BNZ Member=C4
+Removed Member From Class: ClassName=AD592BNZ Member=R6
+Change Component Designator: OldDesignator=C1 NewDesignator=C1.KY
+Change Component Designator: OldDesignator=C4 NewDesignator=C1
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R1.KY
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R2.KY
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1.KY_1
+Added Member To Class: ClassName=AD592BNZ Member=Component C1.KY C0805
+Added Member To Class: ClassName=AD592BNZ Member=Component R5 R0805 Yageo
+Added Room: Name=AD592BNZ

@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=A1_SN74 Pin=R1-1
+Removed Pin From Net: NetName=A1_SN74 Pin=R2-1
+Removed Pin From Net: NetName=A2_SN74 Pin=R3-1
+Removed Pin From Net: NetName=A2_SN74 Pin=R4-1
+Removed Pin From Net: NetName=B1_SN74 Pin=R5-1
+Removed Pin From Net: NetName=B1_SN74 Pin=R6-1
+Removed Pin From Net: NetName=B2_SN74 Pin=R7-1
+Removed Pin From Net: NetName=B2_SN74 Pin=R8-1
+Removed Pin From Net: NetName=DIR_SN74 Pin=R9-1
+Removed Pin From Net: NetName=DIR_SN74 Pin=R10-1
+Added Component: Designator=SA1(PLS3-2,54)
+Added Component: Designator=SA2(PLS3-2,54)
+Added Component: Designator=SA3(PLS3-2,54)
+Added Component: Designator=SA4(PLS3-2,54)
+Added Component: Designator=SA5(PLS3-2,54)
+Added Component: Designator=X2(PBD-14)
+Added Pin To Net: NetName=A1_SN74 Pin=SA1-2
+Added Pin To Net: NetName=B1_SN74 Pin=SA2-2
+Added Pin To Net: NetName=A2_SN74 Pin=SA3-2
+Added Pin To Net: NetName=B2_SN74 Pin=SA4-2
+Added Pin To Net: NetName=DIR_SN74 Pin=SA5-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SA1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=SA1-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SA3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SA3-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=SA2-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=SA2-3
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=SA4-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=SA4-3
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=SA5-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=SA5-3
+Added Net: Name=NetR10_1
+Added Member To Class: ClassName=Sheet1 Member=Component SA1 JUMPER_2
+Added Member To Class: ClassName=Sheet1 Member=Component SA2 JUMPER_2
+Added Member To Class: ClassName=Sheet1 Member=Component SA3 JUMPER_2
+Added Member To Class: ClassName=Sheet1 Member=Component SA4 JUMPER_2
+Added Member To Class: ClassName=Sheet1 Member=Component SA5 JUMPER_2
+Added Member To Class: ClassName=Sheet1 Member=Component X2 PBD-14

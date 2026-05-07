@@ -1,0 +1,12 @@
+Change Component Comment : Designator=VT1 Old Comment=PNP New Comment=MJD45H11T4G
+Change Component Comment : Designator=VT2 Old Comment=PNP New Comment=MJD45H11T4G
+Change Component Comment : Designator=VD2 Old Comment=Value New Comment=RL201
+Change Component Comment : Designator=VD3 Old Comment=Value New Comment=RL201
+Added Pin To Net: NetName=1V8 Pin=C66-1
+Added Pin To Net: NetName=1V8_DUT Pin=C68-1
+Added Pin To Net: NetName=1V8 Pin=C70-1
+Added Pin To Net: NetName=1V8_DUT Pin=C72-1
+Added Pin To Net: NetName=1V8 Pin=C74-1
+Added Pin To Net: NetName=1V8_DUT Pin=C76-1
+Added Pin To Net: NetName=1V8 Pin=C78-1
+Added Pin To Net: NetName=1V8_DUT Pin=C80-1

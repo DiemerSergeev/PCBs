@@ -1,0 +1,11 @@
+Added Component: Designator=X9(BP BANAN)
+Added Component: Designator=X10(BP BANAN)
+Added Pin To Net: NetName=AMP+ Pin=X6-1
+Added Pin To Net: NetName=AMP+ Pin=X8-1
+Added Pin To Net: NetName=AMP+ Pin=X9-1
+Added Net: Name=AMP+
+Added Pin To Net: NetName=AMP- Pin=X3-1
+Added Pin To Net: NetName=AMP- Pin=X10-1
+Added Net: Name=AMP-
+Added Member To Class: ClassName=Sheet1 Member=Component X9 BP-BANAN
+Added Member To Class: ClassName=Sheet1 Member=Component X10 BP-BANAN

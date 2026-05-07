@@ -1,0 +1,273 @@
+Added Component: Designator=C1(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(Tantal Case A)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(Tantal Case A)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIP 14)
+Add Component: Footprint Not Found Formula OY
+Added Component: Designator=K1(V23079A1001B301)
+Added Component: Designator=R1(1206)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(1206)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(1206)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(1206)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(1206)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(1206)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(1206)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SA1(PLS2-2,54)
+Added Component: Designator=SA2(PLS2-2,54)
+Added Component: Designator=SA3(PLS2-2,54)
+Added Component: Designator=SA4(PLS2-2,54)
+Added Component: Designator=SA5(PLS3-2,54)
+Added Component: Designator=SA6(PLS2-2,54)
+Added Component: Designator=SA7(PLS2-2,54)
+Added Component: Designator=SA8(PLS2-2,54)
+Added Component: Designator=SA9(PLS2-2,54)
+Added Component: Designator=SA10(PLS2-2,54)
+Added Component: Designator=SA11(PLS3-2,54)
+Added Component: Designator=VD1(SOD80C)
+Added Component: Designator=VT1(SOT-23)
+Add component (AddParameter): Name = "Application Category"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C-E Saturation Voltage"; Value = "0.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C-E Voltage"; Value = "45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain"; Value = "100…600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Functional Analog"; Value = "BC817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "07.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Транзистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BC817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Temperature Max"; Value = "+150°С"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Temperature Min"; Value = "-65°С"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Vcc Pin=C1-2
+Added Pin To Net: NetName=Vcc Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=Vee Pin=C3-2
+Added Pin To Net: NetName=Vee Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=Dop1 Pin=D1-1
+Added Pin To Net: NetName=Vee Pin=D1-4
+Added Pin To Net: NetName=Dop3 Pin=D1-5
+Added Pin To Net: NetName=Vcc Pin=D1-7
+Added Pin To Net: NetName=Dop2 Pin=D1-8
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-11
+Add Pin To Net: Unknown Pin: Pin D2-15
+Add Pin To Net: Unknown Pin: Pin D2-25
+Added Pin To Net: NetName=+5V Pin=K1-1
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=Dop2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=U3 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=Dop1 Pin=SA1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SA1-2
+Added Pin To Net: NetName=NetR2_1 Pin=SA2-2
+Added Pin To Net: NetName=NetK1_5 Pin=SA3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SA3-2
+Added Pin To Net: NetName=NetK1_5 Pin=SA4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SA4-2
+Added Pin To Net: NetName=GND Pin=SA5-3
+Added Pin To Net: NetName=Dop1 Pin=SA6-1
+Added Pin To Net: NetName=GND Pin=SA6-2
+Added Pin To Net: NetName=NetK1_5 Pin=SA7-1
+Added Pin To Net: NetName=NetR5_1 Pin=SA7-2
+Added Pin To Net: NetName=Dop3 Pin=SA8-1
+Added Pin To Net: NetName=GND Pin=SA8-2
+Added Pin To Net: NetName=NetK1_5 Pin=SA9-1
+Added Pin To Net: NetName=NetR6_1 Pin=SA9-2
+Added Pin To Net: NetName=Dop2 Pin=SA10-1
+Added Pin To Net: NetName=Vcc Pin=SA10-2
+Added Pin To Net: NetName=-15V Pin=SA11-1
+Added Pin To Net: NetName=Vee Pin=SA11-2
+Added Pin To Net: NetName=GND Pin=SA11-3
+Added Pin To Net: NetName=+5V Pin=VD1-2
+Added Pin To Net: NetName=+in Pin=D1-3
+Added Net: Name=+in
+Added Pin To Net: NetName=-in Pin=D1-2
+Added Pin To Net: NetName=-in Pin=SA2-1
+Added Net: Name=-in
+Added Pin To Net: NetName=NetK1_12 Pin=K1-12
+Added Pin To Net: NetName=NetK1_12 Pin=VD1-1
+Added Pin To Net: NetName=NetK1_12 Pin=VT1-2
+Added Pin To Net: NetName=NetK1_12 Pin=VT1-2
+Added Net: Name=NetK1_12
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=R5-2
+Added Pin To Net: NetName=NetR3_2 Pin=R6-2
+Added Pin To Net: NetName=NetR3_2 Pin=SA5-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=VT1-1
+Added Pin To Net: NetName=NetR7_2 Pin=VT1-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=VT1-3
+Added Pin To Net: NetName=NetR8_2 Pin=VT1-3
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=out Pin=D1-6
+Added Pin To Net: NetName=out Pin=K1-4
+Added Pin To Net: NetName=out Pin=R2-2
+Added Net: Name=out
+Added Pin To Net: NetName=Vload Pin=SA5-1
+Added Net: Name=Vload
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component C1 10uF
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component C2 4,7uF
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component C3 4,7uF
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component C4 10uF
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component D1 AD8021ARZ
+Add Class Member: Failed to add class member : Component D2 FORMULA_OP
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component K1 RELE
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component R1 49,9
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component R2 49,9
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component R3 1k
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component R4 10k
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component R5 100k
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component R6 RC1206 Yageo
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component R7 33k
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component R8 0
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA1 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA2 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA3 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA4 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA5 JUMPER_2
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA6 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA7 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA8 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA9 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA10 JUMPER_1
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component SA11 JUMPER_2
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component VD1 BAS32L (SOD-80C)
+Added Member To Class: ClassName=Sheme_OpAmp_1-2-4(v2)_TO Member=Component VT1 BJT-NPN
+Added Room: Name=Sheme_OpAmp_1-2-4(v2)_TO

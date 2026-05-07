@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=VCC_MC Pin=C2-1
+Added Pin To Net: NetName=VCC_MC Pin=C3-1
+Added Pin To Net: NetName=VCC_MC Pin=D3-2
+Added Pin To Net: NetName=VCC_MC Pin=D3-2
+Change Net Name : Old Net Name=VCC_MC New Net Name=+3.3V_MC
+Add Class Member: Failed to add class member : Component R16 DNP
+Add Class Member: Failed to add class member : Component R17 DNP
+Add Class Member: Failed to add class member : Component R22 DNP
+Add Class Member: Failed to add class member : Component R23 DNP

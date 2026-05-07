@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=ALARM NewDesignator=KP4
+Change Component Designator: OldDesignator=ALARM NewDesignator=VD3
+Change Component Designator: OldDesignator=EVENT NewDesignator=KP2
+Change Component Designator: OldDesignator=GND NewDesignator=KP5
+Change Component Designator: OldDesignator=READ NewDesignator=VD1
+Change Component Designator: OldDesignator=RELE1 NewDesignator=VD4
+Change Component Designator: OldDesignator=RELE2 NewDesignator=VD5
+Change Component Designator: OldDesignator=RELE3 NewDesignator=VD6
+Change Component Designator: OldDesignator=SCL NewDesignator=KP1
+Change Component Designator: OldDesignator=SDA NewDesignator=KP3
+Change Component Designator: OldDesignator=WRITE NewDesignator=VD2

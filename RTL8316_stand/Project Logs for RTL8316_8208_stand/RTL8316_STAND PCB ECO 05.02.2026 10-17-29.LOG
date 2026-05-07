@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=C22 Old Footprint=TECAP_type C New Footprint=CAP_Radial_D=5mm
+Change Component Footprint: Designator=C23 Old Footprint=TECAP_type C New Footprint=CAP_Radial_D=5mm
+Added Component: Designator=C82(C_alumin_D=6.3mm)
+Added Component: Designator=C83(C0603)
+Added Component: Designator=C84(C0603)
+Added Component: Designator=C86(C0603)
+Added Component: Designator=C87(C0603)
+Added Component: Designator=ׁ81(C_alumin_D=6.3mm)
+Added Pin To Net: NetName=3V3 Pin=C82-1
+Added Pin To Net: NetName=DGND Pin=C82-2
+Added Pin To Net: NetName=1V8 Pin=C83-1
+Added Pin To Net: NetName=AGND Pin=C83-2
+Added Pin To Net: NetName=1V8 Pin=C84-1
+Added Pin To Net: NetName=AGND Pin=C84-2
+Added Pin To Net: NetName=1V8_DUT Pin=C86-1
+Added Pin To Net: NetName=AGND Pin=C86-2
+Added Pin To Net: NetName=1V8_DUT Pin=C87-1
+Added Pin To Net: NetName=AGND Pin=C87-2
+Added Pin To Net: NetName=3V3 Pin=ׁ81-1
+Added Pin To Net: NetName=DGND Pin=ׁ81-2
+Added Member To Class: ClassName=RJ45_16 Member=Component C33 (C) 0,1 לךװ
+Added Member To Class: ClassName=RJ45_16 Member=Component C34 (C) 0,1 לךװ
+Added Member To Class: ClassName=RJ45_15 Member=Component C35 (C) 0,1 לךװ
+Added Member To Class: ClassName=RJ45_15 Member=Component C36 (C) 0,1 לךװ
+Added Member To Class: ClassName=RJ45_14 Member=Component C37 (C) 0,1 לךװ
+Added Member To Class: ClassName=RJ45_14 Member=Component C38 (C) 0,1 לךװ
+Added Member To Class: ClassName=POWER_TOP Member=Component C82 47 לךװ,16 ֲ
+Added Member To Class: ClassName=POWER_TOP Member=Component C83 0,1 לךװ
+Added Member To Class: ClassName=POWER_TOP Member=Component C84 0,1 לךװ
+Added Member To Class: ClassName=POWER_TOP Member=Component C86 0,1 לךװ
+Added Member To Class: ClassName=POWER_TOP Member=Component C87 0,1 לךװ
+Added Member To Class: ClassName=POWER_TOP Member=Component ׁ81 47 לךװ,16 ֲ

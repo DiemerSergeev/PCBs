@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=SMBCLK_LM Pin=K1-4
+Removed Pin From Net: NetName=SMBDAT_LM Pin=K1-9
+Removed Pin From Net: NetName=TCRIT1_LM Pin=X1-3
+Removed Pin From Net: NetName=TCRIT2_LM Pin=X1-4
+Removed Pin From Net: NetName=SMBDAT_LM Pin=X1-5
+Removed Pin From Net: NetName=SMBCLK_LM Pin=X1-6
+Removed Pin From Net: NetName=TCRIT3_LM Pin=X1-7
+Removed Pin From Net: NetName=TCRIT1_LM Pin=X3-49
+Removed Pin From Net: NetName=TCRIT2_LM Pin=X3-50
+Removed Pin From Net: NetName=TCRIT3_LM Pin=X3-51
+Added Pin To Net: NetName=SMBCLK Pin=K1-4
+Added Pin To Net: NetName=SMBCLK Pin=X1-6
+Added Net: Name=SMBCLK
+Added Pin To Net: NetName=SMBDAT Pin=K1-9
+Added Pin To Net: NetName=SMBDAT Pin=X1-5
+Added Net: Name=SMBDAT
+Added Pin To Net: NetName=TCRIT1 Pin=X1-3
+Added Pin To Net: NetName=TCRIT1 Pin=X3-49
+Added Net: Name=TCRIT1
+Added Pin To Net: NetName=TCRIT2 Pin=X1-4
+Added Pin To Net: NetName=TCRIT2 Pin=X3-50
+Added Net: Name=TCRIT2
+Added Pin To Net: NetName=TCRIT3 Pin=X1-7
+Added Pin To Net: NetName=TCRIT3 Pin=X3-51
+Added Net: Name=TCRIT3

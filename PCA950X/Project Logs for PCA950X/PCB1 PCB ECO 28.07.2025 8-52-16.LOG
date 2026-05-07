@@ -1,0 +1,57 @@
+Change Component Designator: OldDesignator=4 NewDesignator=VD20
+Change Component Designator: OldDesignator=5 NewDesignator=VD24
+Change Component Designator: OldDesignator=6 NewDesignator=VD28
+Change Component Designator: OldDesignator=7 NewDesignator=VD32
+Change Component Designator: OldDesignator=GND NewDesignator=KP4
+Change Component Designator: OldDesignator=INT NewDesignator=KP1
+Change Component Designator: OldDesignator=IO0_0 NewDesignator=VD43
+Change Component Designator: OldDesignator=IO0_1 NewDesignator=VD44
+Change Component Designator: OldDesignator=IO0_2 NewDesignator=VD45
+Change Component Designator: OldDesignator=IO0_3 NewDesignator=VD46
+Change Component Designator: OldDesignator=IO0_4 NewDesignator=VD47
+Change Component Designator: OldDesignator=IO0_5 NewDesignator=VD48
+Change Component Designator: OldDesignator=IO0_6 NewDesignator=VD49
+Change Component Designator: OldDesignator=IO0_7 NewDesignator=VD50
+Change Component Designator: OldDesignator=IO1_0 NewDesignator=VD3
+Change Component Designator: OldDesignator=IO1_1 NewDesignator=VD7
+Change Component Designator: OldDesignator=IO1_2 NewDesignator=VD11
+Change Component Designator: OldDesignator=IO1_3 NewDesignator=VD15
+Change Component Designator: OldDesignator=IO1_4 NewDesignator=VD19
+Change Component Designator: OldDesignator=IO1_5 NewDesignator=VD23
+Change Component Designator: OldDesignator=IO1_6 NewDesignator=VD27
+Change Component Designator: OldDesignator=IO1_7 NewDesignator=VD31
+Change Component Designator: OldDesignator=IO2_0 NewDesignator=VD4
+Change Component Designator: OldDesignator=IO2_1 NewDesignator=VD8
+Change Component Designator: OldDesignator=IO2_2 NewDesignator=VD12
+Change Component Designator: OldDesignator=IO2_3 NewDesignator=VD16
+Change Component Designator: OldDesignator=IO3_0 NewDesignator=VD5
+Change Component Designator: OldDesignator=IO3_1 NewDesignator=VD9
+Change Component Designator: OldDesignator=IO3_2 NewDesignator=VD13
+Change Component Designator: OldDesignator=IO3_3 NewDesignator=VD17
+Change Component Designator: OldDesignator=IO3_4 NewDesignator=VD21
+Change Component Designator: OldDesignator=IO3_5 NewDesignator=VD25
+Change Component Designator: OldDesignator=IO3_6 NewDesignator=VD29
+Change Component Designator: OldDesignator=IO3_7 NewDesignator=VD33
+Change Component Designator: OldDesignator=IO4_0 NewDesignator=VD6
+Change Component Designator: OldDesignator=IO4_1 NewDesignator=VD10
+Change Component Designator: OldDesignator=IO4_2 NewDesignator=VD14
+Change Component Designator: OldDesignator=IO4_3 NewDesignator=VD18
+Change Component Designator: OldDesignator=IO4_4 NewDesignator=VD22
+Change Component Designator: OldDesignator=IO4_5 NewDesignator=VD26
+Change Component Designator: OldDesignator=IO4_6 NewDesignator=VD30
+Change Component Designator: OldDesignator=IO4_7 NewDesignator=VD34
+Change Component Designator: OldDesignator=OE NewDesignator=KP6
+Change Component Designator: OldDesignator=READ NewDesignator=VD35
+Change Component Designator: OldDesignator=RELE1 NewDesignator=VD37
+Change Component Designator: OldDesignator=RELE2 NewDesignator=VD38
+Change Component Designator: OldDesignator=RELE3 NewDesignator=VD41
+Change Component Designator: OldDesignator=RELE4 NewDesignator=VD42
+Change Component Designator: OldDesignator=RESET NewDesignator=KP5
+Change Component Designator: OldDesignator=SCL NewDesignator=KP2
+Change Component Designator: OldDesignator=SDA NewDesignator=KP3
+Change Component Designator: OldDesignator=WRITE NewDesignator=VD36
+Added Class: Name=FK
+Added Class: Name=LEDS
+Added Class: Name=Main Scheme
+Added Class: Name=RELE
+Added Class: Name=UCP_s21

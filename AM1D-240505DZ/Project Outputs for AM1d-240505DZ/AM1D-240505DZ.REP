@@ -1,0 +1,106 @@
+*************************************************************
+FileName = AM1D-240505DZ.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board
+      File : AM1D-240505DZ.GM2
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : AM1D-240505DZ.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : AM1D-240505DZ.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : AM1D-240505DZ.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : AM1D-240505DZ.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : AM1D-240505DZ.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : AM1D-240505DZ.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+

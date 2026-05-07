@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+12V_DIRTY Pin=X1-1
+Removed Pin From Net: NetName=-12V_DIRTY Pin=X3-1
+Added Pin To Net: NetName=+12V Pin=X1-1
+Added Pin To Net: NetName=-12V Pin=X3-1

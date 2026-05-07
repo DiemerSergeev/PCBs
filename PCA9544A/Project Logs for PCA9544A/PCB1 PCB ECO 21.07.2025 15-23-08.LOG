@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=A2_PCA Pin=X3-1
+Removed Pin From Net: NetName=INT0_PCA Pin=X3-2
+Removed Pin From Net: NetName=SD0_PCA Pin=X3-3
+Removed Pin From Net: NetName=SC0_PCA Pin=X3-4
+Removed Pin From Net: NetName=INT1_PCA Pin=X3-5
+Removed Pin From Net: NetName=SD1_PCA Pin=X3-6
+Removed Pin From Net: NetName=SC1_PCA Pin=X3-7
+Removed Pin From Net: NetName=VSS_PCA Pin=X3-8
+Removed Pin From Net: NetName=INT2_PCA Pin=X3-9
+Removed Pin From Net: NetName=SD2_PCA Pin=X3-10
+Removed Pin From Net: NetName=SC2_PCA Pin=X3-11
+Removed Pin From Net: NetName=INT3_PCA Pin=X3-12
+Removed Pin From Net: NetName=SD3_PCA Pin=X3-13
+Removed Pin From Net: NetName=SC3_PCA Pin=X3-14
+Removed Pin From Net: NetName=INT_PCA Pin=X3-15
+Removed Pin From Net: NetName=SCL_PCA Pin=X3-16
+Removed Pin From Net: NetName=SDA_PCA Pin=X3-17
+Removed Pin From Net: NetName=VDD_PCA Pin=X3-18
+Removed Pin From Net: NetName=A0_PCA Pin=X3-19
+Removed Pin From Net: NetName=A1_PCA Pin=X3-20
+Removed Pin From Net: NetName=GND Pin=X3-21
+Removed Pin From Net: NetName=GND Pin=X3-21
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-5
+Add Pin To Net: Unknown Pin: Pin D2-6
+Add Pin To Net: Unknown Pin: Pin D2-7
+Add Pin To Net: Unknown Pin: Pin D2-8
+Add Pin To Net: Unknown Pin: Pin D2-9
+Add Pin To Net: Unknown Pin: Pin D2-10
+Add Pin To Net: Unknown Pin: Pin D2-11
+Add Pin To Net: Unknown Pin: Pin D2-12
+Add Pin To Net: Unknown Pin: Pin D2-13
+Add Pin To Net: Unknown Pin: Pin D2-14
+Add Pin To Net: Unknown Pin: Pin D2-15
+Add Pin To Net: Unknown Pin: Pin D2-16
+Add Pin To Net: Unknown Pin: Pin D2-17
+Add Pin To Net: Unknown Pin: Pin D2-18
+Add Pin To Net: Unknown Pin: Pin D2-19
+Add Pin To Net: Unknown Pin: Pin D2-20
+Add Pin To Net: Unknown Pin: Pin D2-21

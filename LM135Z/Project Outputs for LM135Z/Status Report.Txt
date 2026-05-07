@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LM135Z.PrjPcb]
+   Generated File[LM135Z.TXT]
+   Generated File[LM135Z.LDP]
+   Generated File[LM135Z.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:04:40 On 05.12.2024

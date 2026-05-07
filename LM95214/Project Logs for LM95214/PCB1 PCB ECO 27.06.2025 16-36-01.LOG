@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3.3_LM Pin=R13-2
+Removed Pin From Net: NetName=+3.3_LM Pin=R14-2
+Removed Pin From Net: NetName=+3.3_LM Pin=R19-2
+Added Pin To Net: NetName=VDD_CLEAR Pin=R13-2
+Added Pin To Net: NetName=VDD_CLEAR Pin=R14-2
+Added Pin To Net: NetName=VDD_CLEAR Pin=R19-2

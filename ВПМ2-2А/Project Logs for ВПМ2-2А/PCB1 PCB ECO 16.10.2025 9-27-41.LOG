@@ -1,0 +1,24 @@
+Added Component: Designator=X1(BP BANAN)
+Added Component: Designator=X2(BP BANAN)
+Added Component: Designator=X3(BP BANAN)
+Added Component: Designator=X4(CK-S)
+Added Component: Designator=X5(BP BANAN)
+Added Component: Designator=X6(BP BANAN)
+Added Component: Designator=X7(BP BANAN)
+Added Component: Designator=X8(CK-S)
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin X4-1
+Add Pin To Net: Unknown Pin: Pin X5-1
+Add Pin To Net: Unknown Pin: Pin X6-1
+Add Pin To Net: Unknown Pin: Pin X7-1
+Add Pin To Net: Unknown Pin: Pin X8-1
+Add Class Member: Failed to add class member : Component X1 BP-BANAN
+Add Class Member: Failed to add class member : Component X2 BP-BANAN
+Add Class Member: Failed to add class member : Component X3 BP-BANAN
+Add Class Member: Failed to add class member : Component X4 CK-S
+Add Class Member: Failed to add class member : Component X5 BP-BANAN
+Add Class Member: Failed to add class member : Component X6 BP-BANAN
+Add Class Member: Failed to add class member : Component X7 BP-BANAN
+Add Class Member: Failed to add class member : Component X8 CK-S

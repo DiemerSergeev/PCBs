@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=VDD_PCA Pin=C1-1
+Removed Pin From Net: NetName=VDD_PCA Pin=C2-1
+Removed Pin From Net: NetName=VDD_PCA Pin=D2-24
+Removed Pin From Net: NetName=VDD_PCA Pin=R1-2
+Removed Pin From Net: NetName=VDD_PCA Pin=R3-2
+Removed Pin From Net: NetName=VDD_PCA Pin=R6-2
+Removed Pin From Net: NetName=VDD_PCA Pin=R10-2
+Removed Pin From Net: NetName=VDD_PCA Pin=R13-2
+Removed Pin From Net: NetName=RESET_PCA Pin=X1-OUT3
+Added Component: Designator=K2(V23079A1001B301)
+Added Component: Designator=R50(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R51(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R52(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD21(SOD80C)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = "http://www.nxp.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INV"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Диод LL4148 NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = "24009301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "SOD-80C"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "ONS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Транзистор MMBT5551L*G ONS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = "24007468"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "SOT-23"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_CONST Pin=K2-1
+Added Pin To Net: NetName=VDD_PCA Pin=K2-4
+Added Pin To Net: NetName=GND Pin=R51-2
+Added Pin To Net: NetName=RST_MC Pin=R52-1
+Added Pin To Net: NetName=+5V_CONST Pin=VD21-2
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=GND Pin=VT2-2
+Change Net Name : Old Net Name=VDD_PCA New Net Name=VDD
+Added Pin To Net: NetName=NetK2_12 Pin=K2-12
+Added Pin To Net: NetName=NetK2_12 Pin=VD21-1
+Added Pin To Net: NetName=NetK2_12 Pin=VT2-3
+Added Pin To Net: NetName=NetK2_12 Pin=VT2-3
+Added Net: Name=NetK2_12
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=NetR50_2 Pin=R51-1
+Added Pin To Net: NetName=NetR50_2 Pin=VT2-1
+Added Pin To Net: NetName=NetR50_2 Pin=VT2-1
+Added Net: Name=NetR50_2
+Added Pin To Net: NetName=RELE2 Pin=D1-17X3
+Added Pin To Net: NetName=RELE2 Pin=R50-1
+Added Net: Name=RELE2
+Added Pin To Net: NetName=RST_IN Pin=R52-2
+Added Pin To Net: NetName=RST_IN Pin=X1-OUT3
+Added Net: Name=RST_IN
+Added Pin To Net: NetName=VDD_PCA Pin=C1-1
+Added Pin To Net: NetName=VDD_PCA Pin=C2-1
+Added Pin To Net: NetName=VDD_PCA Pin=D2-24
+Added Pin To Net: NetName=VDD_PCA Pin=K2-3
+Added Pin To Net: NetName=VDD_PCA Pin=R1-2
+Added Pin To Net: NetName=VDD_PCA Pin=R3-2
+Added Pin To Net: NetName=VDD_PCA Pin=R6-2
+Added Pin To Net: NetName=VDD_PCA Pin=R10-2
+Added Pin To Net: NetName=VDD_PCA Pin=R13-2
+Added Net: Name=VDD_PCA
+Added Member To Class: ClassName=Sheet1 Member=Component K2 V23079A1001B301 TE
+Added Member To Class: ClassName=Sheet1 Member=Component R50 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component R51 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R52 100
+Added Member To Class: ClassName=Sheet1 Member=Component VD21 LL4148 NXP
+Added Member To Class: ClassName=Sheet1 Member=Component VT2 MMBT5551L

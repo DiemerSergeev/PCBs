@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=GND NewDesignator=KP6
+Change Component Designator: OldDesignator=PULL DOWN NewDesignator=R22
+Change Component Designator: OldDesignator=PULL DOWN NewDesignator=R23
+Change Component Designator: OldDesignator=PULL DOWN NewDesignator=R34
+Change Component Designator: OldDesignator=PULL DOWN NewDesignator=R35
+Change Component Designator: OldDesignator=PULL UP NewDesignator=R16
+Change Component Designator: OldDesignator=PULL UP NewDesignator=R17
+Change Component Designator: OldDesignator=PULL UP NewDesignator=R26
+Change Component Designator: OldDesignator=PULL UP NewDesignator=R27
+Change Component Designator: OldDesignator=PWM1 NewDesignator=KP3
+Change Component Designator: OldDesignator=PWM2 NewDesignator=KP4
+Change Component Designator: OldDesignator=PWM3 NewDesignator=KP5
+Change Component Designator: OldDesignator=READ NewDesignator=VD2
+Change Component Designator: OldDesignator=RELE1 NewDesignator=VD4
+Change Component Designator: OldDesignator=RELE2 NewDesignator=VD5
+Change Component Designator: OldDesignator=RELE3 NewDesignator=VD6
+Change Component Designator: OldDesignator=RELE4 NewDesignator=VD7
+Change Component Designator: OldDesignator=RELE5 NewDesignator=VD8
+Change Component Designator: OldDesignator=RELE6 NewDesignator=VD9
+Change Component Designator: OldDesignator=SMBCLK NewDesignator=KP2
+Change Component Designator: OldDesignator=SMBDAT NewDesignator=KP1
+Change Component Designator: OldDesignator=TACH1 NewDesignator=KP7
+Change Component Designator: OldDesignator=TACH2 NewDesignator=KP8
+Change Component Designator: OldDesignator=TACH3 NewDesignator=KP9
+Change Component Designator: OldDesignator=TACH4 NewDesignator=KP10
+Change Component Designator: OldDesignator=WRITE NewDesignator=VD3
+Change Component Designator: OldDesignator=X? NewDesignator=X1

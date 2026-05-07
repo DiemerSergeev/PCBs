@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RELE1 Pin=D2-15X3
+Removed Pin From Net: NetName=ADDR2 Pin=D2-16X3
+Removed Pin From Net: NetName=LED_READ Pin=D2-18X3
+Removed Pin From Net: NetName=LED_WRITE Pin=D2-20X3
+Added Pin To Net: NetName=LED_READ Pin=D2-9X3
+Added Pin To Net: NetName=LED_WRITE Pin=D2-11X3
+Added Pin To Net: NetName=RELE1 Pin=D2-13X3
+Added Pin To Net: NetName=ADDR2 Pin=D2-15X3
+Added Room: Name=Sheet1

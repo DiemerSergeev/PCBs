@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PWM1 Pin=R24-2
+Removed Pin From Net: NetName=PWM2 Pin=R25-2
+Removed Pin From Net: NetName=OSC Pin=R28-2
+Removed Pin From Net: NetName=PWM3 Pin=R32-2
+Removed Pin From Net: NetName=OSC Pin=X3-1
+Removed Member From Class: ClassName=UCP_s25 Member=R25
+Removed Member From Class: ClassName=UCP_s25 Member=R32
+Added Pin To Net: NetName=PWM1 Pin=K4-7
+Added Pin To Net: NetName=PWM2 Pin=K5-7
+Added Pin To Net: NetName=PWM3 Pin=K6-7
+Added Pin To Net: NetName=OSC Pin=R24-2
+Change Net Name : Old Net Name=OSC New Net Name=NetK4_1
+Added Pin To Net: NetName=OSC Pin=R24-1
+Added Pin To Net: NetName=OSC Pin=R28-2
+Added Pin To Net: NetName=OSC Pin=X3-1
+Added Net: Name=OSC

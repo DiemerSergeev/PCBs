@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=-OUT_F Pin=K4-5
+Removed Pin From Net: NetName=+OUT_F Pin=K4-8
+Added Pin To Net: NetName=-OUT_F Pin=K4-3
+Added Pin To Net: NetName=+OUT_F Pin=K4-10
+Added Pin To Net: NetName=NetK4_5 Pin=K4-5
+Added Pin To Net: NetName=NetK4_5 Pin=R19-1
+Added Net: Name=NetK4_5
+Added Pin To Net: NetName=NetK4_8 Pin=K4-8
+Added Pin To Net: NetName=NetK4_8 Pin=R21-1
+Added Net: Name=NetK4_8

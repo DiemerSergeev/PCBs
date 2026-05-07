@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=DX_MAX_KY_N Pin=C1-2
+Removed Pin From Net: NetName=DX_MAX_KY_P Pin=D2-3
+Removed Pin From Net: NetName=DX_MAX_KY_N Pin=VT1-2
+Added Component: Designator=R23(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R24(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DX_MAX_KY_P Pin=R23-1
+Added Pin To Net: NetName=DX_MAX_KY_N Pin=R24-2
+Change Net Name : Old Net Name=DX_MAX_KY_P New Net Name=NetC1_1
+Added Pin To Net: NetName=DX_MAX_KY_P Pin=D2-3
+Added Pin To Net: NetName=DX_MAX_KY_P Pin=R23-2
+Added Net: Name=DX_MAX_KY_P
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R24-1
+Added Pin To Net: NetName=NetC1_2 Pin=VT1-2
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=Sheet1 Member=Component R23 0
+Added Member To Class: ClassName=Sheet1 Member=Component R24 0

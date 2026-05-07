@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=-IN Pin=K1-10
+Removed Pin From Net: NetName=RELE2 Pin=R10-1
+Removed Pin From Net: NetName=-IN Pin=R13-2
+Removed Pin From Net: NetName=-IN Pin=R15-1
+Removed Pin From Net: NetName=+5V_CONST Pin=VD3-2
+Removed Pin From Net: NetName=-IN Pin=VT3-2
+Removed Pin From Net: NetName=-IN Pin=VT3-2
+Removed Pin From Net: NetName=-OUT_F Pin=X2-2
+Removed Pin From Net: NetName=-OUT_F Pin=X2-2
+Removed Pin From Net: NetName=-OUT_F Pin=X2-2
+Removed Pin From Net: NetName=-OUT_F Pin=X2-2
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Removed Member From Class: ClassName=Sheet1 Member=R13
+Removed Member From Class: ClassName=Sheet1 Member=VD3
+Removed Member From Class: ClassName=Sheet1 Member=VT3
+Added Pin To Net: NetName=NetK2_12 Pin=K3-12
+Added Pin To Net: NetName=-IN Pin=X1-2
+Added Pin To Net: NetName=-IN Pin=X1-2
+Added Pin To Net: NetName=-IN Pin=X1-2
+Added Pin To Net: NetName=-IN Pin=X1-2
+Added Pin To Net: NetName=-IN Pin=X2-2
+Added Pin To Net: NetName=-IN Pin=X2-2
+Added Pin To Net: NetName=-IN Pin=X2-2
+Added Pin To Net: NetName=-IN Pin=X2-2
+Change Net Name : Old Net Name=-IN New Net Name=GND
+Added Pin To Net: NetName=+5V_VEE Pin=R22-2
+Added Pin To Net: NetName=+5V_VEE Pin=X3-VEEF
+Added Pin To Net: NetName=+5V_VEE Pin=X3-VEES
+Added Net: Name=+5V_VEE
+Added Pin To Net: NetName=-IN Pin=K1-9
+Added Pin To Net: NetName=-IN Pin=R15-1
+Added Pin To Net: NetName=-IN Pin=X3-4
+Added Net: Name=-IN

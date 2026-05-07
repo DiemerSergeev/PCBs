@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=DIR_SN74 Pin=X1-1
+Removed Pin From Net: NetName=B1_SN74 Pin=X1-3
+Change Component Comment : Designator=R1 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R3 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R4 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R5 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R6 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R7 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R8 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R9 Old Comment=DNP New Comment=10k
+Change Component Comment : Designator=R10 Old Comment=DNP New Comment=10k
+Added Pin To Net: NetName=B1_SN74 Pin=X1-1
+Added Pin To Net: NetName=DIR_SN74 Pin=X1-3
+Added Member To Class: ClassName=Sheet1 Member=Component R9 10k

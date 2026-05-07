@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EVENT_MC Pin=D1-11X2
+Removed Pin From Net: NetName=RELE2 Pin=D1-12X2
+Added Pin To Net: NetName=RELE2 Pin=D1-11X2
+Added Pin To Net: NetName=EVENT_MC Pin=D1-12X2

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5V_CONST Pin=K3-1
+Removed Pin From Net: NetName=-OUT Pin=K3-5
+Removed Pin From Net: NetName=+OUT Pin=K3-8
+Removed Pin From Net: NetName=NetK2_12 Pin=K3-12
+Removed Pin From Net: NetName=RELE1 Pin=X3-53
+Removed Pin From Net: NetName=RELE2 Pin=X3-54
+Removed Member From Class: ClassName=Sheet1 Member=K3
+Added Pin To Net: NetName=+OUT Pin=C3-2
+Added Pin To Net: NetName=-OUT Pin=C4-2
+Added Pin To Net: NetName=+OUT Pin=R17-2
+Added Pin To Net: NetName=-OUT Pin=R18-2
+Added Pin To Net: NetName=RELE1 Pin=X3-OUT1
+Added Pin To Net: NetName=RELE2 Pin=X3-OUT2
+Added Pin To Net: NetName=RELE3 Pin=R11-1
+Added Pin To Net: NetName=RELE3 Pin=R25-1
+Added Pin To Net: NetName=RELE3 Pin=X3-OUT3
+Added Net: Name=RELE3

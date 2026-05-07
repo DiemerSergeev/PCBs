@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=DB7_F Pin=X1-17
+Removed Pin From Net: NetName=DB6_F Pin=X1-18
+Removed Pin From Net: NetName=DB2_F Pin=X1-19
+Removed Pin From Net: NetName=DB5_F Pin=X1-20
+Removed Pin From Net: NetName=DB4_F Pin=X1-21
+Removed Pin From Net: NetName=DB3_F Pin=X1-22
+Removed Pin From Net: NetName=DB1_F Pin=X1-23
+Removed Pin From Net: NetName=DB0_F Pin=X1-24
+Added Pin To Net: NetName=DB0_F Pin=X1-1
+Added Pin To Net: NetName=DB1_F Pin=X1-2
+Added Pin To Net: NetName=DB2_F Pin=X1-3
+Added Pin To Net: NetName=DB3_F Pin=X1-4
+Added Pin To Net: NetName=DB4_F Pin=X1-5
+Added Pin To Net: NetName=DB5_F Pin=X1-6
+Added Pin To Net: NetName=DB6_F Pin=X1-7
+Added Pin To Net: NetName=DB7_F Pin=X1-8
+Added Room: Name=Formula connector
+Added Room: Name=MT-20S4A

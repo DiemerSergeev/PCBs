@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PCI_O_P Pin=K2-5
+Removed Pin From Net: NetName=PCI_O_N Pin=K2-8
+Removed Pin From Net: NetName=PCI_O_N Pin=K3-5
+Removed Pin From Net: NetName=PCI_O_P Pin=K3-8
+Removed Pin From Net: NetName=PCI_EX0_P Pin=R17-1
+Removed Pin From Net: NetName=PCI_EX1_N Pin=R18-1
+Removed Pin From Net: NetName=PCI_EX0_N Pin=R26-1
+Removed Pin From Net: NetName=PCI_EX1_P Pin=R27-1
+Added Pin To Net: NetName=PCI_O_N Pin=K2-5
+Added Pin To Net: NetName=PCI_O_P Pin=K2-8
+Added Pin To Net: NetName=PCI_O_P Pin=K3-5
+Added Pin To Net: NetName=PCI_O_N Pin=K3-8
+Added Pin To Net: NetName=PCI_EX0_N Pin=R17-1
+Added Pin To Net: NetName=PCI_EX1_P Pin=R18-1
+Added Pin To Net: NetName=PCI_EX0_P Pin=R26-1
+Added Pin To Net: NetName=PCI_EX1_N Pin=R27-1

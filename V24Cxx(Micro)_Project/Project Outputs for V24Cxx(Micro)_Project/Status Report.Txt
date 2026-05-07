@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [V24Cxx(Micro)_Project.PrjPcb]
+   Generated File[V24Cxx(Micro)_ky.TXT]
+   Generated File[V24Cxx(Micro)_ky.LDP]
+   Generated File[V24Cxx(Micro)_ky.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:06:33 On 19.03.2024

@@ -1,0 +1,78 @@
+Added Component: Designator=VD5(0805(LED))
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INV"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Светодиод L-1154GD Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "в отверстия"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = "24003000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD9(0805(LED))
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INV"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Светодиод L-1154GD Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "в отверстия"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = "24003000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD20(0805(LED))
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INV"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Светодиод L-1154GD Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "в отверстия"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = "24003000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD24(0805(LED))
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INV"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Светодиод L-1154GD Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "в отверстия"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = "24003000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD28(0805(LED))
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INV"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Светодиод L-1154GD Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "в отверстия"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = "24003000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD32(0805(LED))
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "0.75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INV"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Светодиод L-1154GD Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "в отверстия"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = "24003000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR11_2 Pin=VD5-1
+Added Pin To Net: NetName=IO3_0 Pin=VD5-2
+Added Pin To Net: NetName=NetR15_2 Pin=VD9-1
+Added Pin To Net: NetName=IO3_1 Pin=VD9-2
+Added Pin To Net: NetName=NetR26_2 Pin=VD20-1
+Added Pin To Net: NetName=IO2_4 Pin=VD20-2
+Added Pin To Net: NetName=NetR30_2 Pin=VD24-1
+Added Pin To Net: NetName=IO2_5 Pin=VD24-2
+Added Pin To Net: NetName=NetR33_2 Pin=VD28-1
+Added Pin To Net: NetName=IO2_6 Pin=VD28-2
+Added Pin To Net: NetName=NetR37_2 Pin=VD32-1
+Added Pin To Net: NetName=IO2_7 Pin=VD32-2

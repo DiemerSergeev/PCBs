@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+IN Pin=K3-7
+Removed Pin From Net: NetName=+IN Pin=R16-1
+Removed Pin From Net: NetName=+IN Pin=X3-51
+Change Net Name : Old Net Name=+IN New Net Name=+IN_SMA
+Added Pin To Net: NetName=+IN Pin=K1-10
+Added Pin To Net: NetName=+IN Pin=K3-7
+Added Pin To Net: NetName=+IN Pin=R16-1
+Added Pin To Net: NetName=+IN Pin=X3-51
+Added Net: Name=+IN

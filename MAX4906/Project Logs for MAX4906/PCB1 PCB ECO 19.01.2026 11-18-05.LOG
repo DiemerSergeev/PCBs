@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=IN Pin=X3-1
+Removed Pin From Net: NetName=SHDN Pin=X3-2
+Removed Pin From Net: NetName=COM1 Pin=X3-3
+Removed Pin From Net: NetName=COM2 Pin=X3-4
+Removed Pin From Net: NetName=NC1 Pin=X3-5
+Removed Pin From Net: NetName=NC2 Pin=X3-6
+Removed Pin From Net: NetName=NO1 Pin=X3-7
+Removed Pin From Net: NetName=NO2 Pin=X3-8
+Added Pin To Net: NetName=NC1 Pin=X3-1
+Added Pin To Net: NetName=NC2 Pin=X3-2
+Added Pin To Net: NetName=NO1 Pin=X3-3
+Added Pin To Net: NetName=NO2 Pin=X3-4
+Added Pin To Net: NetName=IN Pin=X3-5
+Added Pin To Net: NetName=SHDN Pin=X3-6
+Added Pin To Net: NetName=COM1 Pin=X3-7
+Added Pin To Net: NetName=COM2 Pin=X3-8

@@ -1,0 +1,19 @@
+Added Component: Designator=XS1(7H)
+Added Pin To Net: NetName=IN1+ Pin=XS1-1
+Added Pin To Net: NetName=INC1 Pin=XS1-2
+Added Pin To Net: NetName=IN1- Pin=XS1-3
+Added Pin To Net: NetName=OUT1+ Pin=XS1-4
+Added Pin To Net: NetName=OUT1C1 Pin=XS1-5
+Added Pin To Net: NetName=OUT1C Pin=XS1-6
+Added Pin To Net: NetName=OUT1C2 Pin=XS1-7
+Added Pin To Net: NetName=OUT1- Pin=XS1-8
+Added Pin To Net: NetName=In2+ Pin=XS1-11
+Added Pin To Net: NetName=INC2 Pin=XS1-12
+Added Pin To Net: NetName=In2- Pin=XS1-13
+Added Pin To Net: NetName=OUT2+ Pin=XS1-14
+Added Pin To Net: NetName=OUT2C1 Pin=XS1-15
+Added Pin To Net: NetName=OUT2C Pin=XS1-16
+Added Pin To Net: NetName=OUT2C2 Pin=XS1-17
+Added Pin To Net: NetName=OUT2- Pin=XS1-18
+Added Member To Class: ClassName=kY-383-PM-DB27408 Member=Component XS1 PM-DB27408
+Added Room: Name=kY-383-PM-DB27408

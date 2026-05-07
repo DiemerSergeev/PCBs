@@ -1,0 +1,56 @@
+Added Component: Designator=DA1(V24CxxxBxx)
+Added Component: Designator=XS1(Centr_PIN)
+Added Component: Designator=XS2(Centr_PIN)
+Added Component: Designator=XS3(KU-DC/DC)
+Added Component: Designator=XS4(Centr_PIN)
+Added Component: Designator=XS5(Centr_PIN)
+Added Pin To Net: NetName=in+ Pin=DA1-1
+Added Pin To Net: NetName=in+ Pin=XS3-1
+Added Pin To Net: NetName=in+ Pin=XS3-1
+Added Net: Name=in+
+Added Pin To Net: NetName=in- Pin=DA1-4
+Added Pin To Net: NetName=in- Pin=XS3-3
+Added Pin To Net: NetName=in- Pin=XS3-3
+Added Net: Name=in-
+Added Pin To Net: NetName=out+ Pin=DA1-7
+Added Pin To Net: NetName=out+ Pin=XS3-8
+Added Pin To Net: NetName=out+ Pin=XS3-8
+Added Net: Name=out+
+Added Pin To Net: NetName=out- Pin=DA1-5
+Added Pin To Net: NetName=out- Pin=XS3-6
+Added Pin To Net: NetName=out- Pin=XS3-6
+Added Pin To Net: NetName=out- Pin=XS3-6
+Added Pin To Net: NetName=out- Pin=XS3-6
+Added Pin To Net: NetName=out- Pin=XS3-6
+Added Pin To Net: NetName=out- Pin=XS3-6
+Added Net: Name=out-
+Added Pin To Net: NetName=PV+ Pin=XS3-7
+Added Pin To Net: NetName=PV+ Pin=XS3-7
+Added Pin To Net: NetName=PV+ Pin=XS3-7
+Added Pin To Net: NetName=PV+ Pin=XS3-7
+Added Pin To Net: NetName=PV+ Pin=XS3-7
+Added Pin To Net: NetName=PV+ Pin=XS3-7
+Added Pin To Net: NetName=PV+ Pin=XS5-1
+Added Net: Name=PV+
+Added Pin To Net: NetName=PV- Pin=XS3-5
+Added Pin To Net: NetName=PV- Pin=XS3-5
+Added Pin To Net: NetName=PV- Pin=XS4-1
+Added Net: Name=PV-
+Added Pin To Net: NetName=SEN+ Pin=XS1-1
+Added Pin To Net: NetName=SEN+ Pin=XS3-2
+Added Pin To Net: NetName=SEN+ Pin=XS3-2
+Added Pin To Net: NetName=SEN+ Pin=XS3-2
+Added Pin To Net: NetName=SEN+ Pin=XS3-2
+Added Pin To Net: NetName=SEN+ Pin=XS3-2
+Added Pin To Net: NetName=SEN+ Pin=XS3-2
+Added Net: Name=SEN+
+Added Pin To Net: NetName=SEN- Pin=XS2-1
+Added Pin To Net: NetName=SEN- Pin=XS3-4
+Added Pin To Net: NetName=SEN- Pin=XS3-4
+Added Pin To Net: NetName=SEN- Pin=XS3-4
+Added Pin To Net: NetName=SEN- Pin=XS3-4
+Added Pin To Net: NetName=SEN- Pin=XS3-4
+Added Pin To Net: NetName=SEN- Pin=XS3-4
+Added Net: Name=SEN-
+Added Class: Name=V24Cxx(Micro)_Sh1
+Added Room: Name=V24Cxx(Micro)_Sh1

@@ -1,0 +1,12 @@
+Added Component: Designator=X1(BP BANAN)
+Added Component: Designator=X2(BP BANAN)
+Added Component: Designator=X3(BP BANAN)
+Added Component: Designator=X4(CK-S)
+Added Component: Designator=X5(BP BANAN)
+Added Component: Designator=X6(BP BANAN)
+Added Component: Designator=X7(BP BANAN)
+Added Component: Designator=X8(CK-S)
+Added Net: Name=FUSE+
+Added Net: Name=FUSE-
+Added Net: Name=LOAD-
+Added Class: Name=Sheet1

@@ -1,0 +1,27 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=D1(AM1D-Z)
+Added Component: Designator=D2(人103严1/1)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D1-4
+Add Pin To Net: Unknown Pin: Pin D1-5
+Add Pin To Net: Unknown Pin: Pin D1-6
+Add Pin To Net: Unknown Pin: Pin D1-7
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Add Pin To Net: Unknown Pin: Pin D2-4
+Add Pin To Net: Unknown Pin: Pin D2-5
+Add Pin To Net: Unknown Pin: Pin D2-7
+Add Pin To Net: Unknown Pin: Pin D2-9
+Add Pin To Net: Unknown Pin: Pin D2-10
+Add Pin To Net: Unknown Pin: Pin D2-11
+Add Pin To Net: Unknown Pin: Pin D2-12
+Add Pin To Net: Unknown Pin: Pin D2-13
+Add Pin To Net: Unknown Pin: Pin D2-15
+Add Class Member: Failed to add class member : Component C1 C0805
+Add Class Member: Failed to add class member : Component D1 AM1D-240505DZ
+Add Class Member: Failed to add class member : Component D2 人103严1/3
+Added Room: Name=Sheet1

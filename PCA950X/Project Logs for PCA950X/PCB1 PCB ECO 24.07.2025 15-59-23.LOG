@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=R46-1
+Removed Pin From Net: NetName=GND Pin=R47-1
+Removed Pin From Net: NetName=GND Pin=R48-1
+Removed Pin From Net: NetName=GND Pin=R67-1
+Removed Pin From Net: NetName=GND Pin=R68-1
+Removed Pin From Net: NetName=GND Pin=R69-1
+Removed Pin From Net: NetName=GND Pin=R70-1
+Removed Pin From Net: NetName=GND Pin=R71-1
+Removed Pin From Net: NetName=GND Pin=R72-1
+Removed Pin From Net: NetName=GND Pin=R73-1
+Removed Pin From Net: NetName=GND Pin=R74-1
+Removed Member From Class: ClassName=Main Scheme Member=R45
+Removed Member From Class: ClassName=Main Scheme Member=R46
+Removed Member From Class: ClassName=Main Scheme Member=R47
+Removed Member From Class: ClassName=Main Scheme Member=R48
+Removed Member From Class: ClassName=Main Scheme Member=R67
+Removed Member From Class: ClassName=Main Scheme Member=R68
+Removed Member From Class: ClassName=Main Scheme Member=R69
+Removed Member From Class: ClassName=Main Scheme Member=R70
+Removed Member From Class: ClassName=Main Scheme Member=R71
+Removed Member From Class: ClassName=Main Scheme Member=R72
+Removed Member From Class: ClassName=Main Scheme Member=R73
+Removed Member From Class: ClassName=Main Scheme Member=R74
+Added Pin To Net: NetName=GND Pin=X3-6
+Added Pin To Net: NetName=GND Pin=X3-11
+Added Pin To Net: NetName=GND Pin=X3-23
+Added Pin To Net: NetName=GND Pin=X3-34
+Added Pin To Net: NetName=GND Pin=X3-39
+Added Pin To Net: NetName=GND Pin=X3-51
+Added Pin To Net: NetName=GND Pin=X5-4
+Added Pin To Net: NetName=GND Pin=X5-16
+Added Pin To Net: NetName=GND Pin=X5-27
+Added Pin To Net: NetName=GND Pin=X5-32
+Added Pin To Net: NetName=GND Pin=X5-44
+Added Pin To Net: NetName=GND Pin=X5-55

@@ -1,0 +1,86 @@
+Added Component: Designator=C1(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(AM1D-Z)
+Added Component: Designator=D2(ИЛ103СП1/1)
+Added Pin To Net: NetName=+V1 Output Pin=D1-4
+Added Pin To Net: NetName=+V1 Output Pin=D2-7
+Added Pin To Net: NetName=+V1 Output Pin=D2-7
+Added Pin To Net: NetName=+V1 Output Pin=D2-7
+Added Pin To Net: NetName=+V1 Output Pin=D2-7
+Added Pin To Net: NetName=+V1 Output Pin=D2-7
+Added Pin To Net: NetName=+V1 Output Pin=D2-7
+Added Net: Name=+V1 Output
+Added Pin To Net: NetName=+V2 Output Pin=D1-6
+Added Pin To Net: NetName=+V2 Output Pin=D2-15
+Added Pin To Net: NetName=+V2 Output Pin=D2-15
+Added Pin To Net: NetName=+V2 Output Pin=D2-15
+Added Pin To Net: NetName=+V2 Output Pin=D2-15
+Added Pin To Net: NetName=+V2 Output Pin=D2-15
+Added Pin To Net: NetName=+V2 Output Pin=D2-15
+Added Net: Name=+V2 Output
+Added Pin To Net: NetName=+V Input Pin=C1-1
+Added Pin To Net: NetName=+V Input Pin=D1-1
+Added Pin To Net: NetName=+V Input Pin=D2-2
+Added Pin To Net: NetName=+V Input Pin=D2-2
+Added Pin To Net: NetName=+V Input Pin=D2-2
+Added Pin To Net: NetName=+V Input Pin=D2-2
+Added Pin To Net: NetName=+V Input Pin=D2-2
+Added Pin To Net: NetName=+V Input Pin=D2-2
+Added Pin To Net: NetName=+V Input Pin=D2-10
+Added Pin To Net: NetName=+V Input Pin=D2-10
+Added Pin To Net: NetName=+V Input Pin=D2-10
+Added Pin To Net: NetName=+V Input Pin=D2-10
+Added Pin To Net: NetName=+V Input Pin=D2-10
+Added Pin To Net: NetName=+V Input Pin=D2-10
+Added Net: Name=+V Input
+Added Pin To Net: NetName=-V1 Output Pin=D1-5
+Added Pin To Net: NetName=-V1 Output Pin=D2-5
+Added Pin To Net: NetName=-V1 Output Pin=D2-5
+Added Pin To Net: NetName=-V1 Output Pin=D2-5
+Added Pin To Net: NetName=-V1 Output Pin=D2-5
+Added Pin To Net: NetName=-V1 Output Pin=D2-5
+Added Pin To Net: NetName=-V1 Output Pin=D2-5
+Added Net: Name=-V1 Output
+Added Pin To Net: NetName=-V2 Output Pin=D1-7
+Added Pin To Net: NetName=-V2 Output Pin=D2-13
+Added Pin To Net: NetName=-V2 Output Pin=D2-13
+Added Pin To Net: NetName=-V2 Output Pin=D2-13
+Added Pin To Net: NetName=-V2 Output Pin=D2-13
+Added Pin To Net: NetName=-V2 Output Pin=D2-13
+Added Pin To Net: NetName=-V2 Output Pin=D2-13
+Added Net: Name=-V2 Output
+Added Pin To Net: NetName=-V Input Pin=C1-2
+Added Pin To Net: NetName=-V Input Pin=D1-2
+Added Pin To Net: NetName=-V Input Pin=D2-4
+Added Pin To Net: NetName=-V Input Pin=D2-4
+Added Pin To Net: NetName=-V Input Pin=D2-4
+Added Pin To Net: NetName=-V Input Pin=D2-4
+Added Pin To Net: NetName=-V Input Pin=D2-4
+Added Pin To Net: NetName=-V Input Pin=D2-4
+Added Pin To Net: NetName=-V Input Pin=D2-12
+Added Pin To Net: NetName=-V Input Pin=D2-12
+Added Pin To Net: NetName=-V Input Pin=D2-12
+Added Pin To Net: NetName=-V Input Pin=D2-12
+Added Pin To Net: NetName=-V Input Pin=D2-12
+Added Pin To Net: NetName=-V Input Pin=D2-12
+Added Net: Name=-V Input
+Added Pin To Net: NetName=SEN+ Pin=D2-1
+Added Pin To Net: NetName=SEN+ Pin=D2-1
+Added Pin To Net: NetName=SEN+ Pin=D2-9
+Added Pin To Net: NetName=SEN+ Pin=D2-9
+Added Net: Name=SEN+
+Added Pin To Net: NetName=SEN- Pin=D2-3
+Added Pin To Net: NetName=SEN- Pin=D2-3
+Added Pin To Net: NetName=SEN- Pin=D2-11
+Added Pin To Net: NetName=SEN- Pin=D2-11
+Added Net: Name=SEN-
+Added Class: Name=Sheet1

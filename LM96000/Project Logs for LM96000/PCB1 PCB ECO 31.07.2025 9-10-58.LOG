@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=TACH4_MC Pin=D1-4X2
+Removed Pin From Net: NetName=TACH3_MC Pin=D1-4X3
+Removed Pin From Net: NetName=TACH3 Pin=K3-4
+Removed Pin From Net: NetName=TACH3_F Pin=K3-5
+Removed Pin From Net: NetName=TACH4_F Pin=K3-8
+Removed Pin From Net: NetName=TACH4 Pin=K3-9
+Added Pin To Net: NetName=TACH3_MC Pin=D1-4X2
+Added Pin To Net: NetName=TACH4_MC Pin=D1-4X3
+Added Pin To Net: NetName=TACH4 Pin=K3-4
+Added Pin To Net: NetName=TACH4_F Pin=K3-5
+Added Pin To Net: NetName=TACH3_F Pin=K3-8
+Added Pin To Net: NetName=TACH3 Pin=K3-9
+Change Net Name : Old Net Name=TACH3_MC New Net Name=TACH4_MC
+Change Net Name : Old Net Name=TACH4_MC New Net Name=TACH3_MC

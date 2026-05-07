@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+OUT Pin=X3-1
+Removed Pin From Net: NetName=-OUT Pin=X3-2
+Removed Pin From Net: NetName=+IN_F Pin=X3-3
+Removed Pin From Net: NetName=-IN Pin=X3-4
+Removed Pin From Net: NetName=VOCM Pin=X3-5
+Removed Pin From Net: NetName=RELE1 Pin=X3-49
+Removed Pin From Net: NetName=RELE2 Pin=X3-50
+Removed Pin From Net: NetName=RELE4 Pin=X3-51
+Added Pin To Net: NetName=-OUT Pin=X3-49
+Added Pin To Net: NetName=+IN_F Pin=X3-50
+Added Pin To Net: NetName=-IN Pin=X3-51
+Added Pin To Net: NetName=+OUT Pin=X3-52
+Added Pin To Net: NetName=RELE1 Pin=X3-53
+Added Pin To Net: NetName=RELE2 Pin=X3-54
+Added Pin To Net: NetName=RELE4 Pin=X3-55
+Added Pin To Net: NetName=VOCM Pin=X3-+5V_VDDF
+Added Pin To Net: NetName=VOCM Pin=X3-+5V_VDDS

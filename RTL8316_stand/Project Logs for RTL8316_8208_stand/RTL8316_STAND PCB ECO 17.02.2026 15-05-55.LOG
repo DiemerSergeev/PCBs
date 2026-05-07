@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP6
+Change Component Designator: OldDesignator=X1 NewDesignator=X2
+Change Component Designator: OldDesignator=X2 NewDesignator=X3
+Change Component Designator: OldDesignator=X3 NewDesignator=X4
+Change Component Designator: OldDesignator=X4 NewDesignator=X5
+Change Component Designator: OldDesignator=X5 NewDesignator=X6
+Change Component Designator: OldDesignator=X6 NewDesignator=X7
+Change Component Designator: OldDesignator=X7 NewDesignator=X8
+Change Component Designator: OldDesignator=X8 NewDesignator=X9
+Change Component Designator: OldDesignator=X9 NewDesignator=X10
+Change Component Designator: OldDesignator=X10 NewDesignator=X11
+Change Component Designator: OldDesignator=X11 NewDesignator=X12
+Change Component Designator: OldDesignator=X12 NewDesignator=X13
+Change Component Designator: OldDesignator=X13 NewDesignator=X14
+Change Component Designator: OldDesignator=X14 NewDesignator=X15
+Change Component Designator: OldDesignator=X15 NewDesignator=X16
+Change Component Designator: OldDesignator=X16 NewDesignator=X17
+Change Component Designator: OldDesignator=X17 NewDesignator=X1
+Change Component Designator: OldDesignator=XS3 NewDesignator=XS2
+Change Component Designator: OldDesignator=XS4 NewDesignator=XS3
+Change Component Designator: OldDesignator=XS5 NewDesignator=XS4
+Change Component Designator: OldDesignator=XS6 NewDesignator=XS5
+Change Net Name : Old Net Name=NetX1_7 New Net Name=NetX2_7
+Change Net Name : Old Net Name=NetX2_7 New Net Name=NetX3_7
+Change Net Name : Old Net Name=NetX3_7 New Net Name=NetX4_7
+Change Net Name : Old Net Name=NetX4_7 New Net Name=NetX5_7
+Change Net Name : Old Net Name=NetX5_7 New Net Name=NetX6_7
+Change Net Name : Old Net Name=NetX6_7 New Net Name=NetX7_7
+Change Net Name : Old Net Name=NetX7_7 New Net Name=NetX8_7
+Change Net Name : Old Net Name=NetX8_7 New Net Name=NetX9_7
+Change Net Name : Old Net Name=NetX9_7 New Net Name=NetX10_7
+Change Net Name : Old Net Name=NetX10_7 New Net Name=NetX11_7
+Change Net Name : Old Net Name=NetX11_7 New Net Name=NetX12_7
+Change Net Name : Old Net Name=NetX12_7 New Net Name=NetX13_7
+Change Net Name : Old Net Name=NetX13_7 New Net Name=NetX14_7
+Change Net Name : Old Net Name=NetX14_7 New Net Name=NetX15_7
+Change Net Name : Old Net Name=NetX15_7 New Net Name=NetX16_7
+Change Net Name : Old Net Name=NetX16_7 New Net Name=NetX17_7

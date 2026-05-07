@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DX_MAX_KY_N Pin=R23-2
+Removed Pin From Net: NetName=DX_MAX_KY_P Pin=R24-2
+Added Pin To Net: NetName=DX_MAX_KY_P Pin=R23-2
+Added Pin To Net: NetName=DX_MAX_KY_N Pin=R24-2
+Add Class Member: Failed to add class member : Component KP1 Contact
+Add Class Member: Failed to add class member : Component KP2 Contact
+Add Class Member: Failed to add class member : Component KP3 Contact
+Add Class Member: Failed to add class member : Component KP4 Contact
+Add Class Member: Failed to add class member : Component VD1 LED(0805)
+Add Class Member: Failed to add class member : Component VD2 LED(0805)
+Add Class Member: Failed to add class member : Component VD3 LED(0805)
+Add Class Member: Failed to add class member : Component VD4 LED(0805)
+Add Class Member: Failed to add class member : Component VD5 LED(0805)

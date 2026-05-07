@@ -1,0 +1,10 @@
+Added Component: Designator=KP1(Contact)
+Added Component: Designator=KP2(Contact)
+Added Component: Designator=KP3(Contact)
+Added Component: Designator=KP4(Contact)
+Added Component: Designator=KP5(Contact)
+Added Pin To Net: NetName=SCL_DS Pin=KP1-1
+Added Pin To Net: NetName=EVENT_DS Pin=KP2-1
+Added Pin To Net: NetName=SDA_DS Pin=KP3-1
+Added Pin To Net: NetName=ALARM_DS Pin=KP4-1
+Added Pin To Net: NetName=GND Pin=KP5-1

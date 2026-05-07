@@ -1,0 +1,11 @@
+Change Net Name : Old Net Name=+IN New Net Name=+IN_OP
+Added Pin To Net: NetName=+IN Pin=K1-3
+Added Pin To Net: NetName=+IN Pin=R7-2
+Added Pin To Net: NetName=+IN Pin=R8-2
+Added Pin To Net: NetName=+IN Pin=R16-1
+Added Net: Name=+IN
+Added Pin To Net: NetName=-IN_OP Pin=D1-1
+Added Pin To Net: NetName=-IN_OP Pin=K2-4
+Added Pin To Net: NetName=-IN_OP Pin=R15-2
+Added Pin To Net: NetName=-IN_OP Pin=X3-4
+Added Net: Name=-IN_OP

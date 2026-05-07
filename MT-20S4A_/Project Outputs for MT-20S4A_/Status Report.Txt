@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MT-20S4A_.PrjPcb]
+   Generated File[MT-20S4A-RoundHoles.TXT]
+   Generated File[MT-20S4A-SlotHoles.TXT]
+   Generated File[MT-20S4A.LDP]
+   Generated File[MT-20S4A.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:41:29 On 10.01.2025

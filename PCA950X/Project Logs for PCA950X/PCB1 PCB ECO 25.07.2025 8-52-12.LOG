@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LED_READ Pin=D1-9X3
+Removed Pin From Net: NetName=LED_WRITE Pin=D1-11X3
+Removed Pin From Net: NetName=OE_MC Pin=D1-17X3
+Removed Pin From Net: NetName=A2_MC Pin=D1-18X3
+Removed Pin From Net: NetName=A1_MC Pin=D1-19X3
+Removed Pin From Net: NetName=A0_MC Pin=D1-20X3
+Added Pin To Net: NetName=A2_MC Pin=D1-7X3
+Added Pin To Net: NetName=OE_MC Pin=D1-9X3
+Added Pin To Net: NetName=A1_MC Pin=D1-11X3
+Added Pin To Net: NetName=A0_MC Pin=D1-13X3
+Added Pin To Net: NetName=LED_WRITE Pin=D1-19X3
+Added Pin To Net: NetName=LED_READ Pin=D1-20X3

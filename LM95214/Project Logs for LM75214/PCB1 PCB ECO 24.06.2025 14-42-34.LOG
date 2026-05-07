@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SCL_F Pin=X3-3
+Removed Pin From Net: NetName=SDA_F Pin=X3-4
+Added Pin To Net: NetName=TCRIT1_LM Pin=X3-49
+Added Pin To Net: NetName=TCRIT2_LM Pin=X3-50
+Added Pin To Net: NetName=TCRIT3_LM Pin=X3-51
+Added Pin To Net: NetName=SCL_F Pin=X3-52
+Added Pin To Net: NetName=SDA_F Pin=X3-53

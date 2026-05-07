@@ -1,0 +1,15 @@
+Added Component: Designator=X1(VIA)
+Added Component: Designator=X2(VIA)
+Added Component: Designator=X3(VIA)
+Added Component: Designator=X4(VIA)
+Added Component: Designator=X5(VIA)
+Added Pin To Net: NetName=+12V_DIRTY Pin=X1-1
+Added Pin To Net: NetName=DGND Pin=X2-1
+Added Pin To Net: NetName=-12V_DIRTY Pin=X3-1
+Added Pin To Net: NetName=+12V_EXT Pin=X4-1
+Added Pin To Net: NetName=GND_EXT Pin=X5-1
+Added Member To Class: ClassName=POWER Member=Component X1 VIA PBS
+Added Member To Class: ClassName=POWER Member=Component X2 VIA PBS
+Added Member To Class: ClassName=POWER Member=Component X3 VIA PBS
+Added Member To Class: ClassName=POWER Member=Component X4 VIA PBS
+Added Member To Class: ClassName=POWER Member=Component X5 VIA PBS

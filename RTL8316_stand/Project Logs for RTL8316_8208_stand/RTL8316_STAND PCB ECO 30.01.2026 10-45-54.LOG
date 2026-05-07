@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3_8208_DUT Pin=C13-1
+Removed Pin From Net: NetName=AGND Pin=C13-2
+Removed Pin From Net: NetName=3V3 Pin=C24-1
+Removed Pin From Net: NetName=AGND Pin=C24-2
+Removed Member From Class: ClassName=POWER_TOP Member=C13
+Removed Member From Class: ClassName=POWER_TOP Member=C24

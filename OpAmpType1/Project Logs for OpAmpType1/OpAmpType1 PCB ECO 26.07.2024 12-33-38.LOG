@@ -1,0 +1,4 @@
+Change Component Comment : Designator=VD1 Old Comment=BAS32L (SOD-80C) New Comment=LL4148
+Change Component Comment : Designator=VT1 Old Comment=BJT-NPN New Comment=BC817
+Change Component Comment : Designator=R6 Old Comment=RC1206 Yageo New Comment=Dont propose
+Added Member To Class: ClassName=OpAmpType1 Member=Component R1 49,9

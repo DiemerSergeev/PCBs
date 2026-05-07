@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=In2+ Pin=X1-4
+Removed Pin From Net: NetName=In2+ Pin=X1-4
+Removed Pin From Net: NetName=In2- Pin=X1-6
+Removed Pin From Net: NetName=In2- Pin=X1-6
+Added Component: Designator=X3(PLD-12)
+Added Component: Designator=X4(PLD-12)
+Added Pin To Net: NetName=In2+ Pin=X2-1
+Added Pin To Net: NetName=In2+ Pin=X2-1
+Added Pin To Net: NetName=In2- Pin=X2-3
+Added Pin To Net: NetName=In2- Pin=X2-3
+Change Net Name : Old Net Name=NetX1_1 New Net Name=IN1+
+Change Net Name : Old Net Name=NetX1_2 New Net Name=INC1
+Change Net Name : Old Net Name=NetX1_3 New Net Name=IN1-
+Added Pin To Net: NetName=INC2 Pin=X2-2
+Added Pin To Net: NetName=INC2 Pin=X2-2
+Added Pin To Net: NetName=INC2 Pin=XS1-12
+Added Net: Name=INC2
+Added Pin To Net: NetName=OUT1+ Pin=X3-1
+Added Pin To Net: NetName=OUT1+ Pin=X3-1
+Added Pin To Net: NetName=OUT1+ Pin=XS1-4
+Added Net: Name=OUT1+
+Added Pin To Net: NetName=OUT1- Pin=X3-3
+Added Pin To Net: NetName=OUT1- Pin=X3-3
+Added Pin To Net: NetName=OUT1- Pin=XS1-8
+Added Net: Name=OUT1-
+Added Pin To Net: NetName=OUT1C1 Pin=X3-4
+Added Pin To Net: NetName=OUT1C1 Pin=X3-4
+Added Pin To Net: NetName=OUT1C1 Pin=XS1-5
+Added Net: Name=OUT1C1
+Added Pin To Net: NetName=OUT1C2 Pin=X3-6
+Added Pin To Net: NetName=OUT1C2 Pin=X3-6
+Added Pin To Net: NetName=OUT1C2 Pin=XS1-7
+Added Net: Name=OUT1C2
+Added Pin To Net: NetName=OUT1C Pin=X3-2
+Added Pin To Net: NetName=OUT1C Pin=X3-2
+Added Pin To Net: NetName=OUT1C Pin=X3-5
+Added Pin To Net: NetName=OUT1C Pin=X3-5
+Added Pin To Net: NetName=OUT1C Pin=XS1-6
+Added Net: Name=OUT1C
+Added Pin To Net: NetName=OUT2+ Pin=X4-1
+Added Pin To Net: NetName=OUT2+ Pin=X4-1
+Added Pin To Net: NetName=OUT2+ Pin=XS1-14
+Added Net: Name=OUT2+
+Added Pin To Net: NetName=OUT2- Pin=X4-3
+Added Pin To Net: NetName=OUT2- Pin=X4-3
+Added Pin To Net: NetName=OUT2- Pin=XS1-18
+Added Net: Name=OUT2-
+Added Pin To Net: NetName=OUT2C1 Pin=X4-4
+Added Pin To Net: NetName=OUT2C1 Pin=X4-4
+Added Pin To Net: NetName=OUT2C1 Pin=XS1-15
+Added Net: Name=OUT2C1
+Added Pin To Net: NetName=OUT2C2 Pin=X4-6
+Added Pin To Net: NetName=OUT2C2 Pin=X4-6
+Added Pin To Net: NetName=OUT2C2 Pin=XS1-17
+Added Net: Name=OUT2C2
+Added Pin To Net: NetName=OUT2C Pin=X4-2
+Added Pin To Net: NetName=OUT2C Pin=X4-2
+Added Pin To Net: NetName=OUT2C Pin=X4-5
+Added Pin To Net: NetName=OUT2C Pin=X4-5
+Added Pin To Net: NetName=OUT2C Pin=XS1-16
+Added Net: Name=OUT2C
+Added Member To Class: ClassName=kY-383-PM-DB27408 Member=Component X3 PLD-12
+Added Member To Class: ClassName=kY-383-PM-DB27408 Member=Component X4 PLD-12

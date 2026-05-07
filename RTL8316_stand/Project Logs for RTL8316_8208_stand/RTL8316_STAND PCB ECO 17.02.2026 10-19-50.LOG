@@ -1,0 +1,18 @@
+Change Component Comment : Designator=VD3 Old Comment=1N4002 New Comment=M2
+Change Component Comment : Designator=VD4 Old Comment=1N4002 New Comment=M2
+Added Component: Designator=TP7(PLS2-1)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/keystone-electronics/5001/36-5001-ND/255327"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Test point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Test point, Keystone, 5001"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(PLS2-1)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/keystone-electronics/5001/36-5001-ND/255327"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Test point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Test point, Keystone, 5001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MDC Pin=TP7-1
+Added Pin To Net: NetName=MDIO Pin=TP8-1
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component TP7 (TP) Test point, Keystone, 5001
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component TP8 (TP) Test point, Keystone, 5001

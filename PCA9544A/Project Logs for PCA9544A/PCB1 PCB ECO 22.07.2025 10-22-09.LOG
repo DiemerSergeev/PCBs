@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SC3_PCA Pin=K6-4
+Removed Pin From Net: NetName=SC3_F Pin=K6-5
+Removed Pin From Net: NetName=SD3_F Pin=K6-8
+Removed Pin From Net: NetName=SD3_PCA Pin=K6-9
+Added Pin To Net: NetName=SD3_PCA Pin=K6-4
+Added Pin To Net: NetName=SD3_F Pin=K6-5
+Added Pin To Net: NetName=SC3_F Pin=K6-8
+Added Pin To Net: NetName=SC3_PCA Pin=K6-9

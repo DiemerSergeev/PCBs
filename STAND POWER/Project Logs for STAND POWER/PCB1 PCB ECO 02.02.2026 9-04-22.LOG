@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=-12V_DIRTY Pin=R2-2
+Removed Pin From Net: NetName=DGND_DIRTY Pin=VD2-2
+Added Pin To Net: NetName=DGND_DIRTY Pin=R2-2
+Added Pin To Net: NetName=-12V_DIRTY Pin=VD2-2

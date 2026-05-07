@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetK3_1 Pin=K3-1
+Removed Pin From Net: NetName=Vload Pin=K3-8
+Removed Pin From Net: NetName=Vload Pin=K3-8
+Removed Pin From Net: NetName=Vee Pin=K11-1
+Removed Pin From Net: NetName=-15V Pin=K11-8
+Removed Pin From Net: NetName=-15V Pin=K11-8
+Added Pin To Net: NetName=Vload Pin=K3-1
+Added Pin To Net: NetName=NetK3_1 Pin=K3-8
+Added Pin To Net: NetName=NetK3_1 Pin=K3-8
+Added Pin To Net: NetName=-15V Pin=K11-1
+Added Pin To Net: NetName=Vee Pin=K11-8
+Added Pin To Net: NetName=Vee Pin=K11-8
+Change Net Name : Old Net Name=NetK3_1 New Net Name=NetK3_8
+Added Member To Class: ClassName=OpAmpType1 Member=Component K2 TRR1A05F00
+Added Member To Class: ClassName=OpAmpType1 Member=Component K3 TRR1C05F00
+Added Member To Class: ClassName=OpAmpType1 Member=Component K11 TRR1C05F00
+Added Member To Class: ClassName=OpAmpType1 Member=Component VD3 LL4148

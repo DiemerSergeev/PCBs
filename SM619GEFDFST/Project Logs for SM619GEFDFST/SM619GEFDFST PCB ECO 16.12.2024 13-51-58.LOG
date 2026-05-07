@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=X4-4
+Added Pin To Net: NetName=RST_ROM1 Pin=X4-6
+Added Pin To Net: NetName=RST_ROM2 Pin=X4-7
+Added Pin To Net: NetName=GND Pin=X4-14
+Added Pin To Net: NetName=GND Pin=X4-21
+Added Pin To Net: NetName=GND Pin=X4-31
+Added Member To Class: ClassName=SM619GEFDFST Member=Component X4 PBS34-2,54
+Added Member To Class: ClassName=SM619GEFDFST Member=Component X5 PBS34-2,54
+Added Room: Name=SM619GEFDFST
+Change Rule Scope 1 : Old Scope=InDifferentialPair('RX') New Scope=InNetClass('SATA')

@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: D:\DATAUSERT\ALTIUM\Projects\V24Cxx(Micro)_Project\V24Cxx(Micro)_ky.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_Via|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_Pad|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Pads|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Vias|Scope=Board|Minimum=-196.85
+RuleKind=Width|RuleName=Width_4inner|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width_ex|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width_PWR|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87

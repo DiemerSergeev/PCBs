@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RELE1 Pin=X3-OUT1
+Removed Pin From Net: NetName=RELE2 Pin=X3-OUT2
+Added Pin To Net: NetName=RELE2 Pin=X3-OUT1
+Added Pin To Net: NetName=RELE1 Pin=X3-OUT2

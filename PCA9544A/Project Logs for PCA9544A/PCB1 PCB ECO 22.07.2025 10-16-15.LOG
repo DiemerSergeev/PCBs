@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SC2_PCA Pin=K7-4
+Removed Pin From Net: NetName=SC2_F Pin=K7-5
+Removed Pin From Net: NetName=SD2_F Pin=K7-8
+Removed Pin From Net: NetName=SD2_PCA Pin=K7-9
+Added Component: Designator=C2(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_PCA Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=SD2_PCA Pin=K7-4
+Added Pin To Net: NetName=SD2_F Pin=K7-5
+Added Pin To Net: NetName=SC2_F Pin=K7-8
+Added Pin To Net: NetName=SC2_PCA Pin=K7-9

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Sheet1 Member=X4
+Change Net Name : Old Net Name=+3.3V_24LC New Net Name=VCC_24LC
+Change Net Name : Old Net Name=+3.3V_MC New Net Name=VDD_MC
+Added Member To Class: ClassName=Sheet1 Member=Component X2 BNC-7038
+Added Member To Class: ClassName=Formula Connector Member=Component X3 PLS34-2.54

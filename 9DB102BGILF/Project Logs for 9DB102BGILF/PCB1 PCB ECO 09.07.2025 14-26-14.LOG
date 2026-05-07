@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PCI_O_N Pin=K5-4
+Removed Pin From Net: NetName=PCI_O_P Pin=K5-9
+Added Pin To Net: NetName=PCI_O_P Pin=K5-4
+Added Pin To Net: NetName=PCI_O_N Pin=K5-9

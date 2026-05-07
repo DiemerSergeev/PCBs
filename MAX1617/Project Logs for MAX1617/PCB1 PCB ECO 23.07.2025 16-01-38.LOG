@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=READ Pin=D1-9X3
+Removed Pin From Net: NetName=RELE3 Pin=D1-16X3
+Removed Pin From Net: NetName=RELE2 Pin=D1-17X3
+Removed Pin From Net: NetName=RELE1 Pin=D1-18X3
+Removed Pin From Net: NetName=A1_MC Pin=D1-19X3
+Removed Pin From Net: NetName=A0_MC Pin=D1-20X3
+Added Pin To Net: NetName=RELE1 Pin=D1-7X3
+Added Pin To Net: NetName=RELE3 Pin=D1-8X3
+Added Pin To Net: NetName=RELE2 Pin=D1-9X3
+Added Pin To Net: NetName=READ Pin=D1-10X3
+Added Pin To Net: NetName=A0_MC Pin=D1-12X3
+Added Pin To Net: NetName=A1_MC Pin=D1-13X3

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PM-DB27408+.PrjPcb]
+   Generated File[PM-DB27408+.TXT]
+   Generated File[PM-DB27408+.LDP]
+   Generated File[PM-DB27408+.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:30:47 On 14.10.2025

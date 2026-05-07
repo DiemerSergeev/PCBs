@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RTL8316_8208_stand.PrjPcb]
+   Generated File[RTL8316_STAND-RoundHoles.TXT]
+   Generated File[RTL8316_STAND-SlotHoles.TXT]
+   Generated File[RTL8316_STAND.LDP]
+   Generated File[RTL8316_STAND.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:08:54 On 13.03.2026

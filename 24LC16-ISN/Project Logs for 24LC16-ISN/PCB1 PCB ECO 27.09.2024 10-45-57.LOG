@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=SDA_F Pin=X4-18
+Removed Pin From Net: NetName=SCL_F Pin=X4-19
+Removed Pin From Net: NetName=WP_F Pin=X4-20
+Removed Pin From Net: NetName=ADDR0_F Pin=X4-21
+Removed Pin From Net: NetName=ADDR1_F Pin=X4-22
+Removed Pin From Net: NetName=ADDR2_F Pin=X4-23
+Added Pin To Net: NetName=SDA_F Pin=X4-1
+Added Pin To Net: NetName=SCL_F Pin=X4-2
+Added Pin To Net: NetName=WP_F Pin=X4-3
+Added Pin To Net: NetName=ADDR0_F Pin=X4-4
+Added Pin To Net: NetName=ADDR1_F Pin=X4-5
+Added Pin To Net: NetName=ADDR2_F Pin=X4-6
+Added Pin To Net: NetName=NetX4_18 Pin=X4-18
+Added Net: Name=NetX4_18
+Added Pin To Net: NetName=NetX4_19 Pin=X4-19
+Added Net: Name=NetX4_19
+Added Pin To Net: NetName=NetX4_20 Pin=X4-20
+Added Net: Name=NetX4_20
+Added Pin To Net: NetName=NetX4_21 Pin=X4-21
+Added Net: Name=NetX4_21
+Added Pin To Net: NetName=NetX4_22 Pin=X4-22
+Added Net: Name=NetX4_22
+Added Pin To Net: NetName=NetX4_23 Pin=X4-23
+Added Net: Name=NetX4_23

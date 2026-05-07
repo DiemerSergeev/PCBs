@@ -1,0 +1,23 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(0805)
+Added Component: Designator=D1(SOT-23-5)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=X1(AD592)
+Add Component: Footprint Not Found PLD6-2,54
+Added Component: Designator=X3(AD592)
+Added Net: Name=+5V
+Added Net: Name=GND_KY
+Added Net: Name=NetD1_1
+Added Net: Name=NetD1_3
+Added Net: Name=NetD1_4
+Added Net: Name=NetR3_1
+Added Net: Name=VOUT
+Added Class: Name=AD592BNZ

@@ -1,0 +1,47 @@
+Change Component Comment : Designator=C7 Old Comment=100pF New Comment=0.1uF
+Change Component Designator: OldDesignator=GND NewDesignator=KP6
+Change Component Designator: OldDesignator=PWM1 NewDesignator=KP3
+Change Component Designator: OldDesignator=PWM2 NewDesignator=KP4
+Change Component Designator: OldDesignator=PWM3 NewDesignator=KP5
+Change Component Designator: OldDesignator=READ NewDesignator=VD2
+Change Component Designator: OldDesignator=RELE1 NewDesignator=VD4
+Change Component Designator: OldDesignator=RELE2 NewDesignator=VD5
+Change Component Designator: OldDesignator=RELE3 NewDesignator=VD6
+Change Component Designator: OldDesignator=RELE4 NewDesignator=VD7
+Change Component Designator: OldDesignator=RELE5 NewDesignator=VD8
+Change Component Designator: OldDesignator=RELE6 NewDesignator=VD9
+Change Component Designator: OldDesignator=SMBCLK NewDesignator=KP2
+Change Component Designator: OldDesignator=SMBDAT NewDesignator=KP1
+Change Component Designator: OldDesignator=TACH1 NewDesignator=KP7
+Change Component Designator: OldDesignator=TACH2 NewDesignator=KP8
+Change Component Designator: OldDesignator=TACH3 NewDesignator=KP9
+Change Component Designator: OldDesignator=TACH4 NewDesignator=KP10
+Change Component Designator: OldDesignator=WRITE NewDesignator=VD3
+Added Component: Designator=C11(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=3.3V_LM Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Member To Class: ClassName=Sheet1 Member=Component C11 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C12 0.1uF

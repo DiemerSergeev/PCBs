@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Sheet1 Member=X4
+Change Component Designator: OldDesignator=X2 NewDesignator=X3
+Change Component Designator: OldDesignator=X3 NewDesignator=X4
+Change Component Designator: OldDesignator=X4 NewDesignator=X5
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Net Name : Old Net Name=NetX4_18 New Net Name=NetX5_18
+Change Net Name : Old Net Name=NetX4_19 New Net Name=NetX5_19
+Change Net Name : Old Net Name=NetX4_20 New Net Name=NetX5_20
+Change Net Name : Old Net Name=NetX4_21 New Net Name=NetX5_21
+Change Net Name : Old Net Name=NetX4_22 New Net Name=NetX5_22
+Change Net Name : Old Net Name=NetX4_23 New Net Name=NetX5_23
+Change Net Name : Old Net Name=NetX4_24 New Net Name=NetX5_24
+Change Net Name : Old Net Name=NetX4_25 New Net Name=NetX5_25
+Change Net Name : Old Net Name=NetX4_26 New Net Name=NetX5_26
+Change Net Name : Old Net Name=NetX4_27 New Net Name=NetX5_27
+Change Net Name : Old Net Name=NetX4_28 New Net Name=NetX5_28
+Change Net Name : Old Net Name=NetX4_29 New Net Name=NetX5_29
+Change Net Name : Old Net Name=NetX4_30 New Net Name=NetX5_30
+Change Net Name : Old Net Name=NetX4_31 New Net Name=NetX5_31
+Change Net Name : Old Net Name=NetX4_32 New Net Name=NetX5_32
+Change Net Name : Old Net Name=NetX4_33 New Net Name=NetX5_33
+Added Member To Class: ClassName=Sheet1 Member=Component R2 2k
+Added Member To Class: ClassName=Sheet1 Member=Component R6 2.2k
+Added Member To Class: ClassName=Sheet1 Member=Component R8 100
+Added Member To Class: ClassName=Sheet1 Member=Component R10 100
+Added Member To Class: ClassName=Sheet1 Member=Component R12 100
+Added Member To Class: ClassName=Sheet1 Member=Component R14 10k
+Added Member To Class: ClassName=Sheet1 Member=Component X2 BNC-7038
+Added Member To Class: ClassName=Formula Connector Member=Component X3 PLS34-2.54
+Added Member To Class: ClassName=Formula Connector Member=Component X5 PLS34-2.54

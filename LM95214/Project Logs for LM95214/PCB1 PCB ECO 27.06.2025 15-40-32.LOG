@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=TCRIT1_LM Pin=K2-4
+Removed Pin From Net: NetName=TCRIT1 Pin=K2-5
+Removed Pin From Net: NetName=TCRIT2 Pin=K2-8
+Removed Pin From Net: NetName=TCRIT2_LM Pin=K2-9
+Removed Pin From Net: NetName=TCRIT3_LM Pin=K3-4
+Removed Pin From Net: NetName=TCRIT3 Pin=K3-5
+Removed Pin From Net: NetName=TCRIT1 Pin=X3-49
+Removed Pin From Net: NetName=TCRIT2 Pin=X3-50
+Removed Pin From Net: NetName=TCRIT3 Pin=X3-51
+Added Pin To Net: NetName=TCRIT1 Pin=K2-4
+Added Pin To Net: NetName=TCRIT2 Pin=K2-9
+Added Pin To Net: NetName=TCRIT3 Pin=K3-4
+Added Pin To Net: NetName=TCRIT1_F Pin=K2-5
+Added Pin To Net: NetName=TCRIT1_F Pin=X3-49
+Added Net: Name=TCRIT1_F
+Added Pin To Net: NetName=TCRIT2_F Pin=K2-8
+Added Pin To Net: NetName=TCRIT2_F Pin=X3-50
+Added Net: Name=TCRIT2_F
+Added Pin To Net: NetName=TCRIT3_F Pin=K3-5
+Added Pin To Net: NetName=TCRIT3_F Pin=X3-51
+Added Net: Name=TCRIT3_F

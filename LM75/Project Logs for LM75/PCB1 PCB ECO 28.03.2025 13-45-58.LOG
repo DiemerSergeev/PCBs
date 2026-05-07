@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SDA_F Pin=X1-1
+Removed Pin From Net: NetName=OS_F Pin=X1-2
+Added Pin To Net: NetName=SDA_F Pin=X1-55
+Added Pin To Net: NetName=OS_F Pin=X1-56

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ALERT_MAX Pin=X1-4
+Removed Pin From Net: NetName=SMBDAT_MAX Pin=X1-5
+Removed Pin From Net: NetName=ALERT_MAX_KY Pin=X2-4
+Removed Pin From Net: NetName=SMBDAT_MAX_KY Pin=X2-5
+Added Pin To Net: NetName=SMBDAT_MAX Pin=X1-4
+Added Pin To Net: NetName=ALERT_MAX Pin=X1-5
+Added Pin To Net: NetName=SMBDAT_MAX_KY Pin=X2-4
+Added Pin To Net: NetName=ALERT_MAX_KY Pin=X2-5

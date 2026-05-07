@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=SCL_MC Pin=D1-3
+Removed Pin From Net: NetName=GND Pin=D1-7
+Removed Pin From Net: NetName=GND Pin=D1-8
+Removed Pin From Net: NetName=GND Pin=D1-9
+Removed Pin From Net: NetName=GND Pin=D1-10
+Removed Pin From Net: NetName=GND Pin=D1-11
+Removed Pin From Net: NetName=WP_MC Pin=D1-16
+Removed Pin From Net: NetName=SDA_MC Pin=D1-18
+Removed Pin From Net: NetName=RST_MC Pin=D1-23
+Removed Pin From Net: NetName=ON_RELE3 Pin=D1-28
+Removed Pin From Net: NetName=ON_RELE2 Pin=D1-29
+Removed Pin From Net: NetName=ON_RELE1 Pin=D1-30
+Removed Pin From Net: NetName=DI1_MC Pin=D1-31
+Removed Pin From Net: NetName=DO2_MC Pin=D1-32
+Removed Pin From Net: NetName=DO1_MC Pin=D1-33
+Removed Pin From Net: NetName=+3.3V_MC Pin=D1-34
+Removed Pin From Net: NetName=+3.3V_MC Pin=D1-35
+Removed Pin From Net: NetName=+3.3V_MC Pin=D1-36
+Removed Pin From Net: NetName=LED2 Pin=D1-37
+Change Component Designator: OldDesignator= NewDesignator=KP1
+Change Component Designator: OldDesignator= NewDesignator=KP2
+Change Component Designator: OldDesignator= NewDesignator=KP3
+Change Component Designator: OldDesignator= NewDesignator=KP4
+Change Component Designator: OldDesignator= NewDesignator=KP5
+Added Pin To Net: NetName=SCL_MC Pin=D1-5
+Added Pin To Net: NetName=SDA_MC Pin=D1-6
+Added Pin To Net: NetName=WP_MC Pin=D1-10
+Added Pin To Net: NetName=GND Pin=D1-13
+Added Pin To Net: NetName=GND Pin=D1-15
+Added Pin To Net: NetName=GND Pin=D1-17
+Added Pin To Net: NetName=GND Pin=D1-19
+Added Pin To Net: NetName=GND Pin=D1-20
+Added Pin To Net: NetName=RST_MC Pin=D1-25
+Added Pin To Net: NetName=ON_RELE3 Pin=D1-35
+Added Pin To Net: NetName=ON_RELE2 Pin=D1-37
+Added Pin To Net: NetName=ON_RELE1 Pin=D1-39
+Added Pin To Net: NetName=LED2 Pin=D1-40
+Added Pin To Net: NetName=DI1_MC Pin=D1-41
+Added Pin To Net: NetName=+3.3V_MC Pin=D1-42
+Added Pin To Net: NetName=DO2_MC Pin=D1-43
+Added Pin To Net: NetName=+3.3V_MC Pin=D1-44
+Added Pin To Net: NetName=DO1_MC Pin=D1-45
+Added Pin To Net: NetName=+3.3V_MC Pin=D1-46
+Added Member To Class: ClassName=Sheet1 Member=Component KP2 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP3 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP4 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP5 Contact

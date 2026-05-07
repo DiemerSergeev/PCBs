@@ -1,0 +1,245 @@
+Removed Member From Class: ClassName=RJ45_2 Member=C5
+Removed Member From Class: ClassName=RJ45_4 Member=C5
+Removed Member From Class: ClassName=RJ45_6 Member=C5
+Removed Member From Class: ClassName=RJ45_12 Member=C5
+Removed Member From Class: ClassName=U_RJ-45_OUTPUT Member=C5
+Removed Member From Class: ClassName=U_RJ-45_OUTPUT Member=C24
+Removed Member From Class: ClassName=POWER_TOP Member=C50
+Removed Member From Class: ClassName=RJ45_8 Member=C50
+Removed Member From Class: ClassName=RJ45_14 Member=C50
+Removed Member From Class: ClassName=RJ45_16 Member=C50
+Removed Member From Class: ClassName=POWER_TOP Member=C51
+Removed Member From Class: ClassName=RJ45_7 Member=C51
+Removed Member From Class: ClassName=RJ45_13 Member=C51
+Removed Member From Class: ClassName=RJ45_15 Member=C51
+Removed Member From Class: ClassName=POWER_TOP Member=C52
+Removed Member From Class: ClassName=RJ45_7 Member=C52
+Removed Member From Class: ClassName=RJ45_13 Member=C52
+Removed Member From Class: ClassName=RJ45_15 Member=C52
+Removed Member From Class: ClassName=POWER_TOP Member=C53
+Removed Member From Class: ClassName=RJ45_1 Member=C53
+Removed Member From Class: ClassName=RJ45_3 Member=C53
+Removed Member From Class: ClassName=RJ45_5 Member=C53
+Removed Member From Class: ClassName=RJ45_6 Member=C53
+Removed Member From Class: ClassName=RJ45_8 Member=C53
+Removed Member From Class: ClassName=RJ45_14 Member=C53
+Removed Member From Class: ClassName=RJ45_16 Member=C53
+Removed Member From Class: ClassName=U_RJ-45_OUTPUT Member=C53
+Removed Member From Class: ClassName=RJ45_2 Member=C81
+Removed Member From Class: ClassName=RJ45_4 Member=C81
+Removed Member From Class: ClassName=RJ45_12 Member=C81
+Removed Member From Class: ClassName=RJ45_1 Member=C83
+Removed Member From Class: ClassName=RJ45_3 Member=C83
+Removed Member From Class: ClassName=RJ45_5 Member=C83
+Removed Member From Class: ClassName=RJ45_7 Member=R112
+Removed Member From Class: ClassName=RJ45_15 Member=R112
+Removed Member From Class: ClassName=U_INTERFACE Member=R112
+Removed Member From Class: ClassName=U_LED_RESET_XCO Member=R112
+Removed Member From Class: ClassName=RJ45_7 Member=R113
+Removed Member From Class: ClassName=U_INTERFACE Member=R113
+Removed Member From Class: ClassName=U_LED_RESET_XCO Member=R113
+Removed Member From Class: ClassName=RJ45_7 Member=R114
+Removed Member From Class: ClassName=U_INTERFACE Member=R114
+Removed Member From Class: ClassName=U_LED_RESET_XCO Member=R114
+Removed Member From Class: ClassName=RJ45_6 Member=R115
+Removed Member From Class: ClassName=U_INTERFACE Member=R115
+Removed Member From Class: ClassName=U_LED_RESET_XCO Member=R115
+Removed Member From Class: ClassName=RJ45_6 Member=R116
+Removed Member From Class: ClassName=U_INTERFACE Member=R116
+Removed Member From Class: ClassName=U_LED_RESET_XCO Member=R116
+Removed Member From Class: ClassName=POWER_TOP Member=R117
+Removed Member From Class: ClassName=RJ45_6 Member=R117
+Removed Member From Class: ClassName=U_INTERFACE Member=R117
+Removed Member From Class: ClassName=POWER_TOP Member=R118
+Removed Member From Class: ClassName=RJ45_6 Member=R118
+Removed Member From Class: ClassName=U_INTERFACE Member=R118
+Removed Member From Class: ClassName=RJ45_5 Member=R119
+Removed Member From Class: ClassName=RJ45_16 Member=R119
+Removed Member From Class: ClassName=U_INTERFACE Member=R119
+Removed Member From Class: ClassName=RJ45_5 Member=R120
+Removed Member From Class: ClassName=RJ45_16 Member=R120
+Removed Member From Class: ClassName=U_INTERFACE Member=R120
+Removed Member From Class: ClassName=RJ45_5 Member=R121
+Removed Member From Class: ClassName=RJ45_16 Member=R121
+Removed Member From Class: ClassName=U_INTERFACE Member=R121
+Removed Member From Class: ClassName=RJ45_5 Member=R122
+Removed Member From Class: ClassName=RJ45_16 Member=R122
+Removed Member From Class: ClassName=U_INTERFACE Member=R122
+Removed Member From Class: ClassName=RJ45_12 Member=R123
+Removed Member From Class: ClassName=RJ45_15 Member=R123
+Removed Member From Class: ClassName=U_INTERFACE Member=R123
+Removed Member From Class: ClassName=RJ45_12 Member=R124
+Removed Member From Class: ClassName=RJ45_15 Member=R124
+Removed Member From Class: ClassName=U_INTERFACE Member=R124
+Removed Member From Class: ClassName=RJ45_7 Member=R125
+Removed Member From Class: ClassName=RJ45_12 Member=R125
+Removed Member From Class: ClassName=RJ45_15 Member=R125
+Removed Member From Class: ClassName=U_INTERFACE Member=R125
+Removed Member From Class: ClassName=U_LED_RESET_XCO Member=R125
+Removed Member From Class: ClassName=RJ45_4 Member=R139
+Removed Member From Class: ClassName=RJ45_4 Member=R140
+Removed Member From Class: ClassName=RJ45_12 Member=R140
+Removed Member From Class: ClassName=U_LED_RESET_XCO Member=VD3
+Removed Member From Class: ClassName=RJ45_14 Member=X3
+Removed Member From Class: ClassName=RJ45_13 Member=X4
+Removed Member From Class: ClassName=RJ45_8 Member=X5
+Change Component Designator: OldDesignator=X? NewDesignator=X17
+Change Class Name : Old Net Name=RJ45_8 New Net Name=RJ45_9
+Change Class Name : Old Net Name=RJ45_13 New Net Name=RJ45_10
+Change Class Name : Old Net Name=RJ45_14 New Net Name=RJ45_11
+Added Class: Name=RJ45_8
+Added Class: Name=RJ45_13
+Added Class: Name=RJ45_14
+Added Member To Class: ClassName=POWER_TOP Member=Component C4 (C82) 47 לךÔ,16 Â
+Added Member To Class: ClassName=POWER_TOP Member=Component C6 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C8 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C10 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C12 (C) 470 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C24 (C83) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C25 (C84) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C26 (C) 10 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C27 (C86) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C28 (C87) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C29 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C30 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C31 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C32 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C33 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C34 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C35 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component C36 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_16 Member=Component C37 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_16 Member=Component C38 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_15 Member=Component C39 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_15 Member=Component C40 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_7 Member=Component C47 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_7 Member=Component C48 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_6 Member=Component C49 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_6 Member=Component C50 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_5 Member=Component C51 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_5 Member=Component C52 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_12 Member=Component C53 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_12 Member=Component C54 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_11 Member=Component C55 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_11 Member=Component C56 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_10 Member=Component C57 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_10 Member=Component C58 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_9 Member=Component C59 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_9 Member=Component C60 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_4 Member=Component C61 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_4 Member=Component C62 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_3 Member=Component C63 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_3 Member=Component C64 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_2 Member=Component C65 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_2 Member=Component C66 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_1 Member=Component C67 (C) 0,1 לךÔ
+Added Member To Class: ClassName=RJ45_1 Member=Component C68 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C69 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C70 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C71 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C72 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C73 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C74 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C75 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C76 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C77 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C78 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C79 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C80 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C82 (C) 0,1 לךÔ
+Added Member To Class: ClassName=U_RJ-45_OUTPUT Member=Component C84 (C) 0,1 לךÔ
+Added Member To Class: ClassName=POWER_TOP Member=Component L1 (L3) 2.2 לךÃם
+Added Member To Class: ClassName=POWER_TOP Member=Component L3 (L) 2.2 לךÃם
+Added Member To Class: ClassName=U_INTERFACE Member=Component R1 (R) 10 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R2 (R) 10 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R3 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R4 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R7 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R8 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R11 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R12 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R13 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R14 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R15 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R16 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R17 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R18 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R19 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R21 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R23 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R25 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R27 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R29 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R32 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R33 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R34 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R35 (R) 1 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R36 (R) 1 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R37 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R38 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R39 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R40 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R41 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R42 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R44 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R46 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R48 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R49 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R50 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R51 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R53 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R55 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R56 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R57 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R59 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R60 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R61 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R62 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R63 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R64 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R65 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R66 (R) 33 Îל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R67 (R) 20 ךÎל
+Added Member To Class: ClassName=U_INTERFACE Member=Component R68 (R) 20 ךÎל
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component R69 (R) 10 ךÎל
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component R70 (R) 1.5 ךÎל
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component R71 (R) 1 ךÎל
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component R72 (R) 4,7 ךÎל
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component R73 (R) 500 Îל
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component R74 (R) 1,5 ךÎל
+Added Member To Class: ClassName=POWER_TOP Member=Component R75 (R) 2 ךÎל
+Added Member To Class: ClassName=POWER_TOP Member=Component R76 (R) 2 ךÎל
+Added Member To Class: ClassName=RJ45_16 Member=Component R77 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_16 Member=Component R78 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_16 Member=Component R79 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_16 Member=Component R80 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_15 Member=Component R81 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_15 Member=Component R82 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_15 Member=Component R83 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_15 Member=Component R84 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_7 Member=Component R97 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_7 Member=Component R98 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_7 Member=Component R99 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_7 Member=Component R100 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_6 Member=Component R101 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_6 Member=Component R102 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_6 Member=Component R103 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_6 Member=Component R104 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_5 Member=Component R105 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_5 Member=Component R106 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_5 Member=Component R107 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_5 Member=Component R108 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_12 Member=Component R109 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_12 Member=Component R110 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_12 Member=Component R111 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_12 Member=Component R112 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_4 Member=Component R125 (R) 49,9 Îל
+Added Member To Class: ClassName=RJ45_4 Member=Component R126 (R) 49,9 Îל
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component VD1 (VD) BAT60JFILM (SOD323)
+Added Member To Class: ClassName=U_LED_RESET_XCO Member=Component VD2 (VD) LED
+Added Member To Class: ClassName=POWER_TOP Member=Component VD3 (VD) 1N4002
+Added Member To Class: ClassName=RJ45_11 Member=Component X10 (X) RJ45(100BASE-TX)
+Added Member To Class: ClassName=RJ45_10 Member=Component X11 (X) RJ45(100BASE-TX)
+Added Member To Class: ClassName=RJ45_9 Member=Component X12 (X) RJ45(100BASE-TX)
+Added Member To Class: ClassName=POWER_TOP Member=Component XS3 (XS) Banana
+Added Member To Class: ClassName=POWER_TOP Member=Component XS4 (XS) Banana

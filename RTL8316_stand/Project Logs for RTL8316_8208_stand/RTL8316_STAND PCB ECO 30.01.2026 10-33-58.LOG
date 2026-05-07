@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=1V8_DUT Pin=C22-1
+Removed Pin From Net: NetName=1V8_DUT Pin=VD2-1
+Added Component: Designator=SB4(Switch_rocker)
+Added Component: Designator=XS5(Banana_Connect)
+Added Pin To Net: NetName=1V8_DUT Pin=SB4-1
+Added Pin To Net: NetName=1V8_DUT Pin=XS5-1
+Added Pin To Net: NetName=1V8_DUT_IN Pin=C22-1
+Added Pin To Net: NetName=1V8_DUT_IN Pin=SB4-2
+Added Pin To Net: NetName=1V8_DUT_IN Pin=VD2-1
+Added Pin To Net: NetName=1V8_DUT_IN Pin=XS5-2
+Added Net: Name=1V8_DUT_IN
+Added Member To Class: ClassName=POWER_TOP Member=Component SB4 Switch
+Added Member To Class: ClassName=POWER_TOP Member=Component XS5 Banana

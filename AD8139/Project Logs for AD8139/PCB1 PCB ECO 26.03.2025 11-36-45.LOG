@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=-OUT Pin=K3-5
+Removed Pin From Net: NetName=+OUT Pin=K3-8
+Change Component Comment : Designator=X1 Old Comment=GENERATOR IN New Comment=SMA GENERATOR
+Change Component Comment : Designator=X4 Old Comment=OSC IN New Comment=SMA OSC
+Change Component Comment : Designator=X2 Old Comment=OSC OUT New Comment=SMA OSC
+Added Pin To Net: NetName=+OUT Pin=K3-5
+Added Pin To Net: NetName=-OUT Pin=K3-8

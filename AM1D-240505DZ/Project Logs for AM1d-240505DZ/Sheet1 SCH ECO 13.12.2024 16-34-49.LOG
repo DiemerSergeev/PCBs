@@ -1,0 +1,20 @@
+Remove Pin=C1-1 From Net=+V Input
+Remove Pin=C1-2 From Net=-V Input
+Remove Pin=D1-1 From Net=+V Input
+Remove Pin=D1-2 From Net=-V Input
+Remove Pin=D1-4 From Net=+V1 Output
+Remove Pin=D1-5 From Net=-V1 Output
+Remove Pin=D1-6 From Net=+V2 Output
+Remove Pin=D1-7 From Net=-V2 Output
+Remove Pin=D2-1 From Net=SEN+
+Remove Pin=D2-2 From Net=+V Input
+Remove Pin=D2-3 From Net=SEN-
+Remove Pin=D2-4 From Net=-V Input
+Remove Pin=D2-5 From Net=-V1 Output
+Remove Pin=D2-7 From Net=+V1 Output
+Remove Pin=D2-9 From Net=SEN+
+Remove Pin=D2-10 From Net=+V Input
+Remove Pin=D2-11 From Net=SEN-
+Remove Pin=D2-12 From Net=-V Input
+Remove Pin=D2-13 From Net=-V2 Output
+Remove Pin=D2-15 From Net=+V2 Output

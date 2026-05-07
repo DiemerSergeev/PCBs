@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=X4-8
+Change Net Name : Old Net Name=VSS_KY New Net Name=GND_KY

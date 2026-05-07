@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=+3.3V_24LC Pin=-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Added Component: Designator=KP1(Contact)
+Added Component: Designator=KP2(Contact)
+Added Component: Designator=KP3(Contact)
+Added Component: Designator=KP4(Contact)
+Added Component: Designator=KP5(Contact)
+Added Component: Designator=X?(BNC-7038)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Вилка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "Вилка PLD2-2 *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typ"; Value = "PLD2-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=WP Pin=KP1-1
+Added Pin To Net: NetName=SCL Pin=KP2-1
+Added Pin To Net: NetName=SDA Pin=KP3-1
+Added Pin To Net: NetName=+3.3V_24LC Pin=KP4-1
+Added Pin To Net: NetName=GND Pin=KP5-1
+Added Pin To Net: NetName=SDA_F Pin=X?-1
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Member To Class: ClassName=Sheet1 Member=Component KP1 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP2 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP3 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP4 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component KP5 Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? BNC-7038

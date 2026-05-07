@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=VD2 Old Footprint=DO-15 New Footprint=DO-41
+Change Component Footprint: Designator=VD3 Old Footprint=DO-15 New Footprint=DO-41
+Change Component Comment : Designator=VD2 Old Comment=RL201 New Comment=1N4002
+Change Component Comment : Designator=VD3 Old Comment=RL201 New Comment=1N4002

@@ -1,0 +1,48 @@
+Add component: Duplicated parameters (ClassName) in variant "[No Variations]" were ignored
+Added Component: Designator=D1(M1-SPI-ATM64(V2))
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Вилка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "Вилка PLD2-2 *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typ"; Value = "PLD2-2"; VariantName = "[No Variations]"
+Add component: Duplicated parameters (ClassName) in variant "[No Variations]" found
+Added Pin To Net: NetName=GND Pin=D1-1X2
+Added Pin To Net: NetName=GND Pin=D1-2X2
+Added Pin To Net: NetName=TACH1_MC Pin=D1-2X3
+Added Pin To Net: NetName=GND Pin=D1-3X2
+Added Pin To Net: NetName=TACH2_MC Pin=D1-3X3
+Added Pin To Net: NetName=TACH4_MC Pin=D1-4X2
+Added Pin To Net: NetName=TACH3_MC Pin=D1-4X3
+Added Pin To Net: NetName=GND Pin=D1-5X2
+Added Pin To Net: NetName=RESET_MC Pin=D1-5X3
+Added Pin To Net: NetName=RELE1 Pin=D1-6X3
+Added Pin To Net: NetName=GND Pin=D1-7X2
+Added Pin To Net: NetName=RELE2 Pin=D1-7X3
+Added Pin To Net: NetName=RELE3 Pin=D1-8X3
+Added Pin To Net: NetName=RELE4 Pin=D1-9X3
+Added Pin To Net: NetName=RELE5 Pin=D1-10X3
+Added Pin To Net: NetName=RELE6 Pin=D1-11X3
+Added Pin To Net: NetName=WRITE Pin=D1-14X3
+Added Pin To Net: NetName=SCL_MC Pin=D1-15X2
+Added Pin To Net: NetName=READ Pin=D1-15X3
+Added Pin To Net: NetName=SDA_MC Pin=D1-16X2
+Added Pin To Net: NetName=VID4 Pin=D1-16X3
+Added Pin To Net: NetName=VID3 Pin=D1-17X3
+Added Pin To Net: NetName=VID2 Pin=D1-18X3
+Added Pin To Net: NetName=VID1 Pin=D1-19X3
+Added Pin To Net: NetName=VID0 Pin=D1-20X3
+Added Pin To Net: NetName=DI1_MC Pin=D1-21X3
+Added Pin To Net: NetName=VCC_MC Pin=D1-22X3
+Added Pin To Net: NetName=DO2_MC Pin=D1-23X3
+Added Pin To Net: NetName=VCC_MC Pin=D1-24X3
+Added Pin To Net: NetName=DO1_MC Pin=D1-25X3
+Added Pin To Net: NetName=VCC_MC Pin=D1-26X3
+Added Pin To Net: NetName=GND Pin=D1-27X3
+Added Pin To Net: NetName=VCC_MC Pin=D1-28X3
+Added Member To Class: ClassName=Sheet1 Member=Component D1 M1-SPI-ATM64(V2)

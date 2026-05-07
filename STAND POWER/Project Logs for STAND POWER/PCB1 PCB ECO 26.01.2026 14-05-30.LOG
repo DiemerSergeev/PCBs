@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DGND Pin=C11-1
+Removed Pin From Net: NetName=DGND Pin=C11-2
+Removed Pin From Net: NetName=DGND Pin=C70-1
+Removed Pin From Net: NetName=DGND Pin=C70-2
+Removed Pin From Net: NetName=DGND Pin=R2-1
+Removed Pin From Net: NetName=DGND Pin=R2-2
+Removed Pin From Net: NetName=DGND Pin=R39-1
+Removed Pin From Net: NetName=DGND Pin=R39-2
+Removed Member From Class: ClassName=POWER Member=C11
+Removed Member From Class: ClassName=POWER Member=C70
+Removed Member From Class: ClassName=POWER Member=R2
+Removed Member From Class: ClassName=POWER Member=R39

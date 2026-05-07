@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND_KY Pin=X1.KY-3
+Added Pin To Net: NetName=5V_KY Pin=X1.KY-3
+Added Member To Class: ClassName=AD592BNZ Member=Component X1 PLD6-2,54
+Added Member To Class: ClassName=AD592BNZ Member=Component X2 PLD6-2,54
+Added Room: Name=AD592BNZ

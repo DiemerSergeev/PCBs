@@ -1,0 +1,333 @@
+Removed Pin From Net: NetName=SDA_PCA Pin=X3-1
+Removed Pin From Net: NetName=SCL_PCA Pin=X3-2
+Removed Pin From Net: NetName=IO0_0 Pin=X3-3
+Removed Pin From Net: NetName=IO0_1 Pin=X3-4
+Removed Pin From Net: NetName=IO0_2 Pin=X3-5
+Removed Pin From Net: NetName=GND Pin=X3-6
+Removed Pin From Net: NetName=IO0_3 Pin=X3-7
+Removed Pin From Net: NetName=IO0_4 Pin=X3-8
+Removed Pin From Net: NetName=IO0_5 Pin=X3-9
+Removed Pin From Net: NetName=IO0_6 Pin=X3-10
+Removed Pin From Net: NetName=GND Pin=X3-11
+Removed Pin From Net: NetName=IO0_7 Pin=X3-12
+Removed Pin From Net: NetName=IO1_0 Pin=X3-13
+Removed Pin From Net: NetName=IO1_1 Pin=X3-14
+Removed Pin From Net: NetName=IO1_2 Pin=X3-15
+Removed Pin From Net: NetName=IO1_3 Pin=X3-16
+Removed Pin From Net: NetName=IO1_4 Pin=X3-17
+Removed Pin From Net: NetName=VDD_PCA Pin=X3-18
+Removed Pin From Net: NetName=IO1_5 Pin=X3-19
+Removed Pin From Net: NetName=IO1_6 Pin=X3-20
+Removed Pin From Net: NetName=IO1_7 Pin=X3-21
+Removed Pin From Net: NetName=IO2_0 Pin=X3-22
+Removed Pin From Net: NetName=GND Pin=X3-23
+Removed Pin From Net: NetName=IO2_1 Pin=X3-24
+Removed Pin From Net: NetName=IO2_2 Pin=X3-25
+Removed Pin From Net: NetName=IO2_3 Pin=X3-26
+Removed Pin From Net: NetName=A0 Pin=X3-27
+Removed Pin From Net: NetName=A1 Pin=X3-28
+Removed Pin From Net: NetName=A2 Pin=X3-29
+Removed Pin From Net: NetName=OE Pin=X3-30
+Removed Pin From Net: NetName=IO2_4 Pin=X3-31
+Removed Pin From Net: NetName=IO2_5 Pin=X3-32
+Removed Pin From Net: NetName=IO2_6 Pin=X3-33
+Removed Pin From Net: NetName=GND Pin=X3-34
+Removed Pin From Net: NetName=IO2_7 Pin=X3-35
+Removed Pin From Net: NetName=IO3_0 Pin=X3-36
+Removed Pin From Net: NetName=IO3_1 Pin=X3-37
+Removed Pin From Net: NetName=IO3_2 Pin=X3-38
+Removed Pin From Net: NetName=GND Pin=X3-39
+Removed Pin From Net: NetName=IO3_3 Pin=X3-40
+Removed Pin From Net: NetName=IO3_4 Pin=X3-41
+Removed Pin From Net: NetName=IO3_5 Pin=X3-42
+Removed Pin From Net: NetName=IO3_6 Pin=X3-43
+Removed Pin From Net: NetName=IO3_7 Pin=X3-44
+Removed Pin From Net: NetName=IO4_0 Pin=X3-45
+Removed Pin From Net: NetName=VDD_PCA Pin=X3-46
+Removed Pin From Net: NetName=IO4_1 Pin=X3-47
+Removed Pin From Net: NetName=IO4_2 Pin=X3-48
+Removed Pin From Net: NetName=IO4_3 Pin=X3-49
+Removed Pin From Net: NetName=IO4_4 Pin=X3-50
+Removed Pin From Net: NetName=GND Pin=X3-51
+Removed Pin From Net: NetName=IO4_5 Pin=X3-52
+Removed Pin From Net: NetName=IO4_6 Pin=X3-53
+Removed Pin From Net: NetName=IO4_7 Pin=X3-54
+Removed Pin From Net: NetName=INT_PCA Pin=X3-55
+Removed Pin From Net: NetName=RESET Pin=X3-56
+Removed Pin From Net: NetName=IO0_4 Pin=X5-1
+Removed Pin From Net: NetName=IO0_5 Pin=X5-2
+Removed Pin From Net: NetName=IO0_6 Pin=X5-3
+Removed Pin From Net: NetName=GND Pin=X5-4
+Removed Pin From Net: NetName=IO0_7 Pin=X5-5
+Removed Pin From Net: NetName=IO1_0 Pin=X5-6
+Removed Pin From Net: NetName=IO1_1 Pin=X5-7
+Removed Pin From Net: NetName=IO1_2 Pin=X5-8
+Removed Pin From Net: NetName=IO1_3 Pin=X5-9
+Removed Pin From Net: NetName=IO1_4 Pin=X5-10
+Removed Pin From Net: NetName=VDD_PCA Pin=X5-11
+Removed Pin From Net: NetName=IO1_5 Pin=X5-12
+Removed Pin From Net: NetName=IO1_6 Pin=X5-13
+Removed Pin From Net: NetName=IO1_7 Pin=X5-14
+Removed Pin From Net: NetName=IO2_0 Pin=X5-15
+Removed Pin From Net: NetName=GND Pin=X5-16
+Removed Pin From Net: NetName=IO2_1 Pin=X5-17
+Removed Pin From Net: NetName=IO2_2 Pin=X5-18
+Removed Pin From Net: NetName=IO2_3 Pin=X5-19
+Removed Pin From Net: NetName=A0 Pin=X5-20
+Removed Pin From Net: NetName=A1 Pin=X5-21
+Removed Pin From Net: NetName=A2 Pin=X5-22
+Removed Pin From Net: NetName=OE Pin=X5-23
+Removed Pin From Net: NetName=IO2_4 Pin=X5-24
+Removed Pin From Net: NetName=IO2_5 Pin=X5-25
+Removed Pin From Net: NetName=IO2_6 Pin=X5-26
+Removed Pin From Net: NetName=GND Pin=X5-27
+Removed Pin From Net: NetName=IO2_7 Pin=X5-28
+Removed Pin From Net: NetName=IO3_0 Pin=X5-29
+Removed Pin From Net: NetName=IO3_1 Pin=X5-30
+Removed Pin From Net: NetName=IO3_2 Pin=X5-31
+Removed Pin From Net: NetName=GND Pin=X5-32
+Removed Pin From Net: NetName=IO3_3 Pin=X5-33
+Removed Pin From Net: NetName=IO3_4 Pin=X5-34
+Removed Pin From Net: NetName=IO3_5 Pin=X5-35
+Removed Pin From Net: NetName=IO3_6 Pin=X5-36
+Removed Pin From Net: NetName=IO3_7 Pin=X5-37
+Removed Pin From Net: NetName=IO4_0 Pin=X5-38
+Removed Pin From Net: NetName=VDD_PCA Pin=X5-39
+Removed Pin From Net: NetName=IO4_1 Pin=X5-40
+Removed Pin From Net: NetName=IO4_2 Pin=X5-41
+Removed Pin From Net: NetName=IO4_3 Pin=X5-42
+Removed Pin From Net: NetName=IO4_4 Pin=X5-43
+Removed Pin From Net: NetName=GND Pin=X5-44
+Removed Pin From Net: NetName=IO4_5 Pin=X5-45
+Removed Pin From Net: NetName=IO4_6 Pin=X5-46
+Removed Pin From Net: NetName=IO4_7 Pin=X5-47
+Removed Pin From Net: NetName=INT_PCA Pin=X5-48
+Removed Pin From Net: NetName=RESET Pin=X5-49
+Removed Pin From Net: NetName=SDA_PCA Pin=X5-50
+Removed Pin From Net: NetName=SCL_PCA Pin=X5-51
+Removed Pin From Net: NetName=IO0_0 Pin=X5-52
+Removed Pin From Net: NetName=IO0_1 Pin=X5-53
+Removed Pin From Net: NetName=IO0_2 Pin=X5-54
+Removed Pin From Net: NetName=GND Pin=X5-55
+Removed Pin From Net: NetName=IO0_3 Pin=X5-56
+Change Component Designator: OldDesignator=4 NewDesignator=VD20
+Change Component Designator: OldDesignator=5 NewDesignator=VD24
+Change Component Designator: OldDesignator=6 NewDesignator=VD28
+Change Component Designator: OldDesignator=7 NewDesignator=VD32
+Change Component Designator: OldDesignator=GND NewDesignator=KP4
+Change Component Designator: OldDesignator=INT NewDesignator=KP1
+Change Component Designator: OldDesignator=IO0_0 NewDesignator=VD43
+Change Component Designator: OldDesignator=IO0_1 NewDesignator=VD44
+Change Component Designator: OldDesignator=IO0_2 NewDesignator=VD45
+Change Component Designator: OldDesignator=IO0_3 NewDesignator=VD46
+Change Component Designator: OldDesignator=IO0_4 NewDesignator=VD47
+Change Component Designator: OldDesignator=IO0_5 NewDesignator=VD48
+Change Component Designator: OldDesignator=IO0_6 NewDesignator=VD49
+Change Component Designator: OldDesignator=IO0_7 NewDesignator=VD50
+Change Component Designator: OldDesignator=IO1_0 NewDesignator=VD3
+Change Component Designator: OldDesignator=IO1_1 NewDesignator=VD7
+Change Component Designator: OldDesignator=IO1_2 NewDesignator=VD11
+Change Component Designator: OldDesignator=IO1_3 NewDesignator=VD15
+Change Component Designator: OldDesignator=IO1_4 NewDesignator=VD19
+Change Component Designator: OldDesignator=IO1_5 NewDesignator=VD23
+Change Component Designator: OldDesignator=IO1_6 NewDesignator=VD27
+Change Component Designator: OldDesignator=IO1_7 NewDesignator=VD31
+Change Component Designator: OldDesignator=IO2_0 NewDesignator=VD4
+Change Component Designator: OldDesignator=IO2_1 NewDesignator=VD8
+Change Component Designator: OldDesignator=IO2_2 NewDesignator=VD12
+Change Component Designator: OldDesignator=IO2_3 NewDesignator=VD16
+Change Component Designator: OldDesignator=IO3_0 NewDesignator=VD5
+Change Component Designator: OldDesignator=IO3_1 NewDesignator=VD9
+Change Component Designator: OldDesignator=IO3_2 NewDesignator=VD13
+Change Component Designator: OldDesignator=IO3_3 NewDesignator=VD17
+Change Component Designator: OldDesignator=IO3_4 NewDesignator=VD21
+Change Component Designator: OldDesignator=IO3_5 NewDesignator=VD25
+Change Component Designator: OldDesignator=IO3_6 NewDesignator=VD29
+Change Component Designator: OldDesignator=IO3_7 NewDesignator=VD33
+Change Component Designator: OldDesignator=IO4_0 NewDesignator=VD6
+Change Component Designator: OldDesignator=IO4_1 NewDesignator=VD10
+Change Component Designator: OldDesignator=IO4_2 NewDesignator=VD14
+Change Component Designator: OldDesignator=IO4_3 NewDesignator=VD18
+Change Component Designator: OldDesignator=IO4_4 NewDesignator=VD22
+Change Component Designator: OldDesignator=IO4_5 NewDesignator=VD26
+Change Component Designator: OldDesignator=IO4_6 NewDesignator=VD30
+Change Component Designator: OldDesignator=IO4_7 NewDesignator=VD34
+Change Component Designator: OldDesignator=OE NewDesignator=KP6
+Change Component Designator: OldDesignator=READ NewDesignator=VD35
+Change Component Designator: OldDesignator=RELE1 NewDesignator=VD37
+Change Component Designator: OldDesignator=RELE2 NewDesignator=VD38
+Change Component Designator: OldDesignator=RELE3 NewDesignator=VD41
+Change Component Designator: OldDesignator=RELE4 NewDesignator=VD42
+Change Component Designator: OldDesignator=RESET NewDesignator=KP5
+Change Component Designator: OldDesignator=SCL NewDesignator=KP2
+Change Component Designator: OldDesignator=SDA NewDesignator=KP3
+Change Component Designator: OldDesignator=WRITE NewDesignator=VD36
+Added Pin To Net: NetName=IO0_4 Pin=X3-1
+Added Pin To Net: NetName=IO0_5 Pin=X3-2
+Added Pin To Net: NetName=IO0_6 Pin=X3-3
+Added Pin To Net: NetName=GND Pin=X3-4
+Added Pin To Net: NetName=IO0_7 Pin=X3-5
+Added Pin To Net: NetName=IO1_0 Pin=X3-6
+Added Pin To Net: NetName=IO1_1 Pin=X3-7
+Added Pin To Net: NetName=IO1_2 Pin=X3-8
+Added Pin To Net: NetName=IO1_3 Pin=X3-9
+Added Pin To Net: NetName=IO1_4 Pin=X3-10
+Added Pin To Net: NetName=VDD_PCA Pin=X3-11
+Added Pin To Net: NetName=IO1_5 Pin=X3-12
+Added Pin To Net: NetName=IO1_6 Pin=X3-13
+Added Pin To Net: NetName=IO1_7 Pin=X3-14
+Added Pin To Net: NetName=IO2_0 Pin=X3-15
+Added Pin To Net: NetName=GND Pin=X3-16
+Added Pin To Net: NetName=IO2_1 Pin=X3-17
+Added Pin To Net: NetName=IO2_2 Pin=X3-18
+Added Pin To Net: NetName=IO2_3 Pin=X3-19
+Added Pin To Net: NetName=A0 Pin=X3-20
+Added Pin To Net: NetName=A1 Pin=X3-21
+Added Pin To Net: NetName=A2 Pin=X3-22
+Added Pin To Net: NetName=OE Pin=X3-23
+Added Pin To Net: NetName=IO2_4 Pin=X3-24
+Added Pin To Net: NetName=IO2_5 Pin=X3-25
+Added Pin To Net: NetName=IO2_6 Pin=X3-26
+Added Pin To Net: NetName=GND Pin=X3-27
+Added Pin To Net: NetName=IO2_7 Pin=X3-28
+Added Pin To Net: NetName=IO3_0 Pin=X3-29
+Added Pin To Net: NetName=IO3_1 Pin=X3-30
+Added Pin To Net: NetName=IO3_2 Pin=X3-31
+Added Pin To Net: NetName=GND Pin=X3-32
+Added Pin To Net: NetName=IO3_3 Pin=X3-33
+Added Pin To Net: NetName=IO3_4 Pin=X3-34
+Added Pin To Net: NetName=IO3_5 Pin=X3-35
+Added Pin To Net: NetName=IO3_6 Pin=X3-36
+Added Pin To Net: NetName=IO3_7 Pin=X3-37
+Added Pin To Net: NetName=IO4_0 Pin=X3-38
+Added Pin To Net: NetName=VDD_PCA Pin=X3-39
+Added Pin To Net: NetName=IO4_1 Pin=X3-40
+Added Pin To Net: NetName=IO4_2 Pin=X3-41
+Added Pin To Net: NetName=IO4_3 Pin=X3-42
+Added Pin To Net: NetName=IO4_4 Pin=X3-43
+Added Pin To Net: NetName=GND Pin=X3-44
+Added Pin To Net: NetName=IO4_5 Pin=X3-45
+Added Pin To Net: NetName=IO4_6 Pin=X3-46
+Added Pin To Net: NetName=IO4_7 Pin=X3-47
+Added Pin To Net: NetName=INT_PCA Pin=X3-48
+Added Pin To Net: NetName=RESET Pin=X3-49
+Added Pin To Net: NetName=SDA_PCA Pin=X3-50
+Added Pin To Net: NetName=SCL_PCA Pin=X3-51
+Added Pin To Net: NetName=IO0_0 Pin=X3-52
+Added Pin To Net: NetName=IO0_1 Pin=X3-53
+Added Pin To Net: NetName=IO0_2 Pin=X3-54
+Added Pin To Net: NetName=GND Pin=X3-55
+Added Pin To Net: NetName=IO0_3 Pin=X3-56
+Added Pin To Net: NetName=SDA_PCA Pin=X5-1
+Added Pin To Net: NetName=SCL_PCA Pin=X5-2
+Added Pin To Net: NetName=IO0_0 Pin=X5-3
+Added Pin To Net: NetName=IO0_1 Pin=X5-4
+Added Pin To Net: NetName=IO0_2 Pin=X5-5
+Added Pin To Net: NetName=GND Pin=X5-6
+Added Pin To Net: NetName=IO0_3 Pin=X5-7
+Added Pin To Net: NetName=IO0_4 Pin=X5-8
+Added Pin To Net: NetName=IO0_5 Pin=X5-9
+Added Pin To Net: NetName=IO0_6 Pin=X5-10
+Added Pin To Net: NetName=GND Pin=X5-11
+Added Pin To Net: NetName=IO0_7 Pin=X5-12
+Added Pin To Net: NetName=IO1_0 Pin=X5-13
+Added Pin To Net: NetName=IO1_1 Pin=X5-14
+Added Pin To Net: NetName=IO1_2 Pin=X5-15
+Added Pin To Net: NetName=IO1_3 Pin=X5-16
+Added Pin To Net: NetName=IO1_4 Pin=X5-17
+Added Pin To Net: NetName=VDD_PCA Pin=X5-18
+Added Pin To Net: NetName=IO1_5 Pin=X5-19
+Added Pin To Net: NetName=IO1_6 Pin=X5-20
+Added Pin To Net: NetName=IO1_7 Pin=X5-21
+Added Pin To Net: NetName=IO2_0 Pin=X5-22
+Added Pin To Net: NetName=GND Pin=X5-23
+Added Pin To Net: NetName=IO2_1 Pin=X5-24
+Added Pin To Net: NetName=IO2_2 Pin=X5-25
+Added Pin To Net: NetName=IO2_3 Pin=X5-26
+Added Pin To Net: NetName=A0 Pin=X5-27
+Added Pin To Net: NetName=A1 Pin=X5-28
+Added Pin To Net: NetName=A2 Pin=X5-29
+Added Pin To Net: NetName=OE Pin=X5-30
+Added Pin To Net: NetName=IO2_4 Pin=X5-31
+Added Pin To Net: NetName=IO2_5 Pin=X5-32
+Added Pin To Net: NetName=IO2_6 Pin=X5-33
+Added Pin To Net: NetName=GND Pin=X5-34
+Added Pin To Net: NetName=IO2_7 Pin=X5-35
+Added Pin To Net: NetName=IO3_0 Pin=X5-36
+Added Pin To Net: NetName=IO3_1 Pin=X5-37
+Added Pin To Net: NetName=IO3_2 Pin=X5-38
+Added Pin To Net: NetName=GND Pin=X5-39
+Added Pin To Net: NetName=IO3_3 Pin=X5-40
+Added Pin To Net: NetName=IO3_4 Pin=X5-41
+Added Pin To Net: NetName=IO3_5 Pin=X5-42
+Added Pin To Net: NetName=IO3_6 Pin=X5-43
+Added Pin To Net: NetName=IO3_7 Pin=X5-44
+Added Pin To Net: NetName=IO4_0 Pin=X5-45
+Added Pin To Net: NetName=VDD_PCA Pin=X5-46
+Added Pin To Net: NetName=IO4_1 Pin=X5-47
+Added Pin To Net: NetName=IO4_2 Pin=X5-48
+Added Pin To Net: NetName=IO4_3 Pin=X5-49
+Added Pin To Net: NetName=IO4_4 Pin=X5-50
+Added Pin To Net: NetName=GND Pin=X5-51
+Added Pin To Net: NetName=IO4_5 Pin=X5-52
+Added Pin To Net: NetName=IO4_6 Pin=X5-53
+Added Pin To Net: NetName=IO4_7 Pin=X5-54
+Added Pin To Net: NetName=INT_PCA Pin=X5-55
+Added Pin To Net: NetName=RESET Pin=X5-56
+Added Member To Class: ClassName=Main Scheme Member=Component KP1 Contact
+Added Member To Class: ClassName=Main Scheme Member=Component KP2 Contact
+Added Member To Class: ClassName=Main Scheme Member=Component KP3 Contact
+Added Member To Class: ClassName=Main Scheme Member=Component KP4 Contact
+Added Member To Class: ClassName=Main Scheme Member=Component KP5 Contact
+Added Member To Class: ClassName=Main Scheme Member=Component KP6 Contact
+Added Member To Class: ClassName=LEDS Member=Component VD3 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD4 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD5 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD6 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD7 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD8 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD9 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD10 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD11 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD12 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD13 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD14 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD15 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD16 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD17 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD18 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD19 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD20 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD21 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD22 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD23 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD24 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD25 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD26 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD27 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD28 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD29 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD30 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD31 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD32 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD33 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD34 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD35 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD36 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD37 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD38 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD41 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD42 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD43 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD44 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD45 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD46 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD47 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD48 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD49 LED(0805)
+Added Member To Class: ClassName=LEDS Member=Component VD50 LED(0805)
+Added Room: Name=FK
+Added Room: Name=LEDS
+Added Room: Name=Main Scheme
+Added Room: Name=RELE
+Added Room: Name=UCP_s21

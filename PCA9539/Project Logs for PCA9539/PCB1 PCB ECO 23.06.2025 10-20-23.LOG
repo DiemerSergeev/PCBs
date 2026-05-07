@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=SDA_F Pin=X1-1
+Removed Pin From Net: NetName=SCL_F Pin=X1-2
+Change Component Designator: OldDesignator=GND NewDesignator=KP4
+Change Component Designator: OldDesignator=INT NewDesignator=KP1
+Change Component Designator: OldDesignator=IO0_0 NewDesignator=VD5
+Change Component Designator: OldDesignator=IO0_1 NewDesignator=VD9
+Change Component Designator: OldDesignator=IO0_2 NewDesignator=VD13
+Change Component Designator: OldDesignator=IO0_3 NewDesignator=VD17
+Change Component Designator: OldDesignator=IO0_4 NewDesignator=VD6
+Change Component Designator: OldDesignator=IO0_5 NewDesignator=VD10
+Change Component Designator: OldDesignator=IO0_6 NewDesignator=VD14
+Change Component Designator: OldDesignator=IO0_7 NewDesignator=VD18
+Change Component Designator: OldDesignator=IO1_0 NewDesignator=VD7
+Change Component Designator: OldDesignator=IO1_1 NewDesignator=VD11
+Change Component Designator: OldDesignator=IO1_2 NewDesignator=VD15
+Change Component Designator: OldDesignator=IO1_3 NewDesignator=VD19
+Change Component Designator: OldDesignator=IO1_4 NewDesignator=VD8
+Change Component Designator: OldDesignator=IO1_5 NewDesignator=VD12
+Change Component Designator: OldDesignator=IO1_6 NewDesignator=VD16
+Change Component Designator: OldDesignator=IO1_7 NewDesignator=VD20
+Change Component Designator: OldDesignator=READ NewDesignator=VD1
+Change Component Designator: OldDesignator=RELE1 NewDesignator=VD3
+Change Component Designator: OldDesignator=RELE2 NewDesignator=VD22
+Change Component Designator: OldDesignator=SCL NewDesignator=KP2
+Change Component Designator: OldDesignator=SDA NewDesignator=KP3
+Change Component Designator: OldDesignator=WRITE NewDesignator=VD2
+Added Pin To Net: NetName=SCL_F Pin=X1-1
+Added Pin To Net: NetName=SDA_F Pin=X1-2
+Added Member To Class: ClassName=Sheet1 Member=Component VD1 LED(0805)
+Added Room: Name=Sheet1

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=WRITE Pin=D1-14X3
+Removed Pin From Net: NetName=READ Pin=D1-15X3
+Added Pin To Net: NetName=READ Pin=D1-14X3
+Added Pin To Net: NetName=WRITE Pin=D1-15X3

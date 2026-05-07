@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5V_VCC Pin=X4-VCCF
+Removed Pin From Net: NetName=+5V_VCC Pin=X4-VCCS
+Removed Pin From Net: NetName=+5V_VDD Pin=X4-VDDF
+Removed Pin From Net: NetName=+5V_VDD Pin=X4-VDDF
+Removed Pin From Net: NetName=+5V_VDD Pin=X4-VDDS
+Removed Pin From Net: NetName=+5V_VDD Pin=X4-VDDS
+Add Pin To Net: Unknown Pin: Pin X4-+5V_VCCF
+Add Pin To Net: Unknown Pin: Pin X4-+5V_VCCS
+Add Pin To Net: Unknown Pin: Pin X4-+5V_VDDF
+Add Pin To Net: Unknown Pin: Pin X4-+5V_VDDS

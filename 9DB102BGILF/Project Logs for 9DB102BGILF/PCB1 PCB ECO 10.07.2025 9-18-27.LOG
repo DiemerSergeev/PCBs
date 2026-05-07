@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=nCLKREQ0 Pin=X5-3
+Removed Pin From Net: NetName=nCLKREQ1 Pin=X5-4
+Change Component Comment : Designator=R38 Old Comment=150  New Comment=150
+Change Component Comment : Designator=R42 Old Comment=150  New Comment=150
+Added Pin To Net: NetName=nCLKREQ1 Pin=X5-1
+Added Pin To Net: NetName=nCLKREQ0 Pin=X5-2

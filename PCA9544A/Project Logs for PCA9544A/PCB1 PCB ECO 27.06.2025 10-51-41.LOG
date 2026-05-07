@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=A0_F Pin=R4-2
+Added Pin To Net: NetName=A0_F Pin=X1-64
+Added Net: Name=A0_F
+Added Pin To Net: NetName=A1_F Pin=R8-2
+Added Pin To Net: NetName=A1_F Pin=X1-63
+Added Net: Name=A1_F
+Added Pin To Net: NetName=A2_F Pin=R12-2
+Added Pin To Net: NetName=A2_F Pin=X1-62
+Added Net: Name=A2_F

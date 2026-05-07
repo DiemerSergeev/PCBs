@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=SEN+ Pin=D2-9
+Removed Pin From Net: NetName=SEN+ Pin=D2-9
+Removed Pin From Net: NetName=+V Input Pin=D2-10
+Removed Pin From Net: NetName=+V Input Pin=D2-10
+Removed Pin From Net: NetName=+V Input Pin=D2-10
+Removed Pin From Net: NetName=+V Input Pin=D2-10
+Removed Pin From Net: NetName=+V Input Pin=D2-10
+Removed Pin From Net: NetName=+V Input Pin=D2-10
+Removed Pin From Net: NetName=SEN- Pin=D2-11
+Removed Pin From Net: NetName=SEN- Pin=D2-11
+Removed Pin From Net: NetName=-V Input Pin=D2-12
+Removed Pin From Net: NetName=-V Input Pin=D2-12
+Removed Pin From Net: NetName=-V Input Pin=D2-12
+Removed Pin From Net: NetName=-V Input Pin=D2-12
+Removed Pin From Net: NetName=-V Input Pin=D2-12
+Removed Pin From Net: NetName=-V Input Pin=D2-12
+Added Component: Designator=X5(PV)
+Added Component: Designator=X6(PV)
+Added Pin To Net: NetName=SEN+ Pin=X5-1
+Added Pin To Net: NetName=SEN- Pin=X6-1
+Added Member To Class: ClassName=Sheet1 Member=Component X5 PV
+Added Member To Class: ClassName=Sheet1 Member=Component X6 PV

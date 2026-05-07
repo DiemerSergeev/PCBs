@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=+5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=+5V Pin=C4-1
+Removed Pin From Net: NetName=+5V Pin=R2-2
+Removed Pin From Net: NetName=+5V Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=+5V Pin=X1-1
+Removed Pin From Net: NetName=GND Pin=X1-3
+Removed Pin From Net: NetName=GND_KY Pin=X2.KY-4
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Added Component: Designator=X2(PLD6-2,54)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeigt"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Firme"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KIND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leadform"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Вилка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "Вилка PLD2-2 *"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typ"; Value = "PLD2-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_KY Pin=C1-2
+Added Pin To Net: NetName=GND_KY Pin=R5-1
+Added Pin To Net: NetName=GND_KY Pin=X2-1
+Added Pin To Net: NetName=GND_KY Pin=X2-3
+Added Pin To Net: NetName=+5V Pin=X2-4
+Added Pin To Net: NetName=GND_KY Pin=X2-5
+Added Pin To Net: NetName=GND_KY Pin=X2-6
+Added Pin To Net: NetName=5V_KY Pin=C1-1
+Added Pin To Net: NetName=5V_KY Pin=R3-2
+Added Pin To Net: NetName=5V_KY Pin=X1.KY-1
+Added Pin To Net: NetName=5V_KY Pin=X2.KY-2
+Added Pin To Net: NetName=5V_KY Pin=X2.KY-4
+Added Net: Name=5V_KY
+Added Pin To Net: NetName=VOUT_KY Pin=C4-1
+Added Pin To Net: NetName=VOUT_KY Pin=R2-2
+Added Pin To Net: NetName=VOUT_KY Pin=X2-2
+Added Net: Name=VOUT_KY
+Added Member To Class: ClassName=AD592BNZ Member=Component X1.KY AD592BNZ
+Added Room: Name=AD592BNZ

@@ -1,0 +1,23 @@
+|RECORD=BOM|VERSION=2|FILENAME=D:\altium projects\RTL8316_stand\RTL8316_8208_stand.BomDoc|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=23.01.2026|TIME=17:05:44|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=54!Comment=81!Description=82!Designator=80!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=54!Comment=81!Description=82!Designator=80!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=MicroLib.IntLib\RTL8208B|DESIGNITEMID=RTL8208B|ITEMSOURCE=MicroLib.IntLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=RTL8208B|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,RTL8208B|COMPONENTPARAMETERS=Comment=RTL8208B,"Component Kind=Standard",Description=,Footprint=FPQ-128-0.5-03,"Ibis Model=","Library Name=MicroLib.IntLib","Library Reference=RTL8208B",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=MicroLib.IntLib\RTL8316B|DESIGNITEMID=RTL8316B|ITEMSOURCE=MicroLib.IntLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=RTL8316B|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,RTL8316B|COMPONENTPARAMETERS=Comment=RTL8316B,"Component Kind=Standard",Description=,Footprint=FPQ-128-0.5-03,"Ibis Model=","Library Name=MicroLib.IntLib","Library Reference=RTL8316B",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=MicroLib.IntLib\Resistor_SMD|DESIGNITEMID=Resistor_SMD|ITEMSOURCE=MicroLib.IntLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=1,2 êÎì|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,"1,2 êÎì"|COMPONENTPARAMETERS="Comment=1,2 êÎì","Component Kind=Standard",Description=,Footprint=R0603,"Ibis Model=","Library Name=MicroLib.IntLib","Library Reference=Resistor_SMD",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=MicroLib.IntLib\Resistor_SMD|DESIGNITEMID=Resistor_SMD|ITEMSOURCE=MicroLib.IntLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=33 Îì|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,"33 Îì"|COMPONENTPARAMETERS="Comment=33 Îì","Component Kind=Standard",Description=,Footprint=R0603,"Ibis Model=","Library Name=MicroLib.IntLib","Library Reference=Resistor_SMD",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0

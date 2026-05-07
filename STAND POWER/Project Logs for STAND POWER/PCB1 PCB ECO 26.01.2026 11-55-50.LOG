@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+12V Pin=C54-1
+Removed Pin From Net: NetName=DGND Pin=C54-2
+Removed Pin From Net: NetName=+12V Pin=C56-1
+Removed Pin From Net: NetName=DGND Pin=C56-2
+Removed Pin From Net: NetName=-12V Pin=C70-1
+Removed Pin From Net: NetName=DGND Pin=C70-2
+Removed Pin From Net: NetName=-12V Pin=C71-1
+Removed Pin From Net: NetName=DGND Pin=C71-2
+Removed Member From Class: ClassName=POWER Member=C54
+Removed Member From Class: ClassName=POWER Member=C56
+Removed Member From Class: ClassName=POWER Member=C70
+Removed Member From Class: ClassName=POWER Member=C71

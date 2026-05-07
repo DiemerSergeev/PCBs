@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3.3_PWR_D Pin=K6-3
+Removed Pin From Net: NetName=GND Pin=K6-5
+Added Pin To Net: NetName=GND Pin=K6-3
+Added Pin To Net: NetName=+3.3_PWR_D Pin=K6-5

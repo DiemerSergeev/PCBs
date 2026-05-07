@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3.3V Pin=X2-4
+Removed Pin From Net: NetName=12V Pin=X2-16
+Added Pin To Net: NetName=12V Pin=X2-4
+Added Pin To Net: NetName=3.3V Pin=X2-16
+Add Class Member: Failed to add class member : Component R16 DNP
+Add Class Member: Failed to add class member : Component R17 DNP
+Add Class Member: Failed to add class member : Component R22 DNP
+Add Class Member: Failed to add class member : Component R23 DNP

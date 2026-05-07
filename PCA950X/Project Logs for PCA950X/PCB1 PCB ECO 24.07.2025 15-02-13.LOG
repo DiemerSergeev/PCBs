@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=D3-57
+Add Pin To Net: Unknown Pin: Pin X3-57
+Added Pin To Net: NetName=GND_KY2 Pin=D3-57
+Added Pin To Net: NetName=GND_KY2 Pin=X2-57
+Added Pin To Net: NetName=GND_KY2 Pin=X2-57
+Added Pin To Net: NetName=GND_KY2 Pin=X2-57
+Added Pin To Net: NetName=GND_KY2 Pin=X2-57
+Added Pin To Net: NetName=GND_KY2 Pin=X2-57
+Added Pin To Net: NetName=GND_KY2 Pin=X2-57
+Added Pin To Net: NetName=GND_KY2 Pin=X2-57
+Added Pin To Net: NetName=GND_KY2 Pin=X2-57
+Added Net: Name=GND_KY2

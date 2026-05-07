@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ON_RELE3 Pin=D1-35
+Removed Pin From Net: NetName=ON_RELE4 Pin=D1-36
+Removed Pin From Net: NetName=ON_RELE2 Pin=D1-37
+Removed Pin From Net: NetName=ON_RELE1 Pin=D1-39
+Added Pin To Net: NetName=ON_RELE2 Pin=D1-35
+Added Pin To Net: NetName=ON_RELE1 Pin=D1-36
+Added Pin To Net: NetName=ON_RELE3 Pin=D1-37
+Added Pin To Net: NetName=ON_RELE4 Pin=D1-39
+Added Room: Name=Formula connector
+Added Room: Name=MT-20S4A

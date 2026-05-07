@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=RELE1 Pin=X3-OUT4
+Change Component Comment : Designator=R11 Old Comment=4.7k New Comment=1k
+Added Pin To Net: NetName=RELE1 Pin=D1-20X3

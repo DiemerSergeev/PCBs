@@ -1,0 +1,182 @@
+Change Component DesignItemId : Designator=R14 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R15 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R16 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R17 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R18 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R19 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R20 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R21 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R22 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R23 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R24 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R25 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R26 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component DesignItemId : Designator=R27 Old DesignItemId=R0805 Yageo New DesignItemId=R0603 Yageo
+Change Component Footprint: Designator=R14 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R15 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R17 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R19 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R21 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R23 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R25 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R27 Old Footprint=0805 New Footprint=0603
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0805"; UniqueID = "\PUFYMGKC\NLDMMLME" ("\PUFYMGKC\NLDMMLME")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "0805"; UniqueID = "\PUFYMGKC\FSGDKRRM" ("\PUFYMGKC\FSGDKRRM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "0805"; UniqueID = "\PUFYMGKC\RJYCKNDF" ("\PUFYMGKC\RJYCKNDF")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "0805"; UniqueID = "\PUFYMGKC\NYSIABOA" ("\PUFYMGKC\NYSIABOA")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "0805"; UniqueID = "\PUFYMGKC\DSQQUJWV" ("\PUFYMGKC\DSQQUJWV")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0805"; UniqueID = "\PUFYMGKC\BKMHJBYA" ("\PUFYMGKC\BKMHJBYA")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "0805"; UniqueID = "\PUFYMGKC\EXHKGDAY" ("\PUFYMGKC\EXHKGDAY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "0805"; UniqueID = "\PUFYMGKC\VDSFHLOG" ("\PUFYMGKC\VDSFHLOG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "0805"; UniqueID = "\PUFYMGKC\RCWHLUXY" ("\PUFYMGKC\RCWHLUXY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "0805"; UniqueID = "\PUFYMGKC\FIVXECNR" ("\PUFYMGKC\FIVXECNR")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "0805"; UniqueID = "\PUFYMGKC\YIMBSVRA" ("\PUFYMGKC\YIMBSVRA")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "0805"; UniqueID = "\PUFYMGKC\IEAMZJMF" ("\PUFYMGKC\IEAMZJMF")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "0805"; UniqueID = "\PUFYMGKC\CEEPSIWT" ("\PUFYMGKC\CEEPSIWT")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "0805"; UniqueID = "\PUFYMGKC\KJUTJQVU" ("\PUFYMGKC\KJUTJQVU")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kind"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

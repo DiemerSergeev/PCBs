@@ -1,0 +1,12 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=D1(AM1D-Z)
+Added Component: Designator=D2(»À103—œ1/1)
+Added Net: Name=+V1 Output
+Added Net: Name=+V2 Output
+Added Net: Name=+V Input
+Added Net: Name=-V1 Output
+Added Net: Name=-V2 Output
+Added Net: Name=-V Input
+Added Net: Name=SEN+
+Added Net: Name=SEN-
+Added Class: Name=Sheet1

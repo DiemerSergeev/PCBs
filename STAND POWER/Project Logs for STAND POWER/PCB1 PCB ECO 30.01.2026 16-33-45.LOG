@@ -1,0 +1,224 @@
+Removed Pin From Net: NetName=-12V_DIRTY Pin=C3-1
+Removed Pin From Net: NetName=-12V_DIRTY Pin=C5-1
+Removed Pin From Net: NetName=-12V_DIRTY Pin=C6-1
+Removed Pin From Net: NetName=DGND Pin=C6-2
+Removed Pin From Net: NetName=-12V Pin=C7-1
+Removed Pin From Net: NetName=DGND Pin=C7-2
+Removed Pin From Net: NetName=DGND Pin=C8-1
+Removed Pin From Net: NetName=-12V_DIRTY Pin=C8-2
+Removed Pin From Net: NetName=-12V Pin=C9-1
+Removed Pin From Net: NetName=DGND Pin=C9-2
+Removed Pin From Net: NetName=-12V Pin=C10-1
+Removed Pin From Net: NetName=DGND Pin=C10-2
+Removed Pin From Net: NetName=+12V Pin=C65-1
+Removed Pin From Net: NetName=DGND Pin=C65-2
+Removed Pin From Net: NetName=+12V Pin=C66-1
+Removed Pin From Net: NetName=DGND Pin=C66-2
+Removed Pin From Net: NetName=+12V Pin=C67-1
+Removed Pin From Net: NetName=DGND Pin=C67-2
+Removed Pin From Net: NetName=DGND Pin=L1-4
+Removed Pin From Net: NetName=DGND Pin=L3-4
+Removed Pin From Net: NetName=DGND Pin=R1-1
+Removed Pin From Net: NetName=-12V Pin=R1-2
+Removed Pin From Net: NetName=DGND Pin=R34-1
+Removed Pin From Net: NetName=DGND Pin=X2-1
+Removed Member From Class: ClassName=POWER Member=C62
+Removed Member From Class: ClassName=POWER Member=C63
+Removed Member From Class: ClassName=POWER Member=C64
+Removed Member From Class: ClassName=POWER Member=C65
+Removed Member From Class: ClassName=POWER Member=C66
+Removed Member From Class: ClassName=POWER Member=C67
+Removed Member From Class: ClassName=POWER Member=L3
+Removed Member From Class: ClassName=POWER Member=R34
+Change Component Comment : Designator=C2 Old Comment=1uF New Comment=10uF 0603 25V
+Change Component Comment : Designator=R34 Old Comment=2.4k New Comment=2.8k
+Change Component Comment : Designator=C62 Old Comment=C0603 New Comment=0.1uF 0603 25V
+Change Component Comment : Designator=C63 Old Comment=C0603 New Comment=0.01uF 0603 25V
+Change Component Comment : Designator=C3 Old Comment=C0603 New Comment=10uF 0603 25V
+Change Component Comment : Designator=C5 Old Comment=C0603 New Comment=10uF 0603 25V
+Change Component Comment : Designator=C10 Old Comment=C0603 New Comment=10uF 0603 25V
+Change Component Comment : Designator=C64 Old Comment=C0603 New Comment=100pF 0603 25V
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C4 NewDesignator=C1
+Change Component Designator: OldDesignator=C62 NewDesignator=C7
+Change Component Designator: OldDesignator=C63 NewDesignator=C8
+Change Component Designator: OldDesignator=C64 NewDesignator=C9
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=L3 NewDesignator=L1
+Change Component Designator: OldDesignator=R34 NewDesignator=R1
+Change component parameters: Designator = "C2" ("C6"); Footprint = "0603"; UniqueID = "\PNSBSXYN" ("\PNSBSXYN")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0603"; UniqueID = "\NTOVDVPA" ("\NTOVDVPA")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0603"; UniqueID = "\HKLWWBPK" ("\HKLWWBPK")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0603"; UniqueID = "\OVKCKVIW" ("\OVKCKVIW")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C62" ("C7"); Footprint = "0603"; UniqueID = "\LQOJFKUC" ("\LQOJFKUC")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C63" ("C8"); Footprint = "0603"; UniqueID = "\FFKNGLNI" ("\FFKNGLNI")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C64" ("C9"); Footprint = "0603"; UniqueID = "\WNBEWTER" ("\WNBEWTER")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeigt"; Value = "1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentWeigt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Firme"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KIND"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leadform"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Разрушительный сбой (Исключение из HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Added Pin To Net: NetName=+12V_DIRTY Pin=C3-1
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=+12V_DIRTY Pin=C5-1
+Added Pin To Net: NetName=+12V Pin=C10-1
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Change Net Name : Old Net Name=DGND New Net Name=DGND_DIRTY
+Added Pin To Net: NetName=DGND Pin=C10-2
+Added Pin To Net: NetName=DGND Pin=L1-4
+Added Pin To Net: NetName=DGND Pin=L2-4
+Added Pin To Net: NetName=DGND Pin=R1-1
+Added Pin To Net: NetName=DGND Pin=X2-1
+Added Net: Name=DGND
+Add Class Member: Failed to add class member : Component C4 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C11 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C12 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C13 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C14 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C15 0.1uF 0603 25V
+Add Class Member: Failed to add class member : Component C16 0.01uF 0603 25V
+Add Class Member: Failed to add class member : Component C17 100pF 0603 25V
+Add Class Member: Failed to add class member : Component C18 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C19 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C20 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C21 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C22 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C23 0.1uF 0603 25V
+Add Class Member: Failed to add class member : Component C24 0.01uF 0603 25V
+Add Class Member: Failed to add class member : Component C25 100pF 0603 25V
+Add Class Member: Failed to add class member : Component C26 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C27 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C28 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C29 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C30 10uF 0603 25V
+Add Class Member: Failed to add class member : Component C31 0.1uF 0603 25V
+Add Class Member: Failed to add class member : Component C32 0.01uF 0603 25V
+Add Class Member: Failed to add class member : Component C33 100pF 0603 25V
+Added Member To Class: ClassName=POWER Member=Component L2 SRF0905 2mH
+Add Class Member: Failed to add class member : Component R2 2.8k

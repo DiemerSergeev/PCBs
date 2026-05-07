@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=INT3_MC Pin=D1-17X3
+Removed Pin From Net: NetName=INT2_MC Pin=D1-18X3
+Removed Pin From Net: NetName=INT1_MC Pin=D1-19X3
+Removed Pin From Net: NetName=INT0_MC Pin=D1-20X3
+Added Pin To Net: NetName=INT0_MC Pin=D1-17X3
+Added Pin To Net: NetName=INT1_MC Pin=D1-18X3
+Added Pin To Net: NetName=INT2_MC Pin=D1-19X3
+Added Pin To Net: NetName=INT3_MC Pin=D1-20X3

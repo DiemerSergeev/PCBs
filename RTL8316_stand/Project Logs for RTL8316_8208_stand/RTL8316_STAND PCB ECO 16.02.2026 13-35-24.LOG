@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3V3_8316 Pin=R2-1
+Removed Pin From Net: NetName=3V3_8316 Pin=R4-1
+Removed Pin From Net: NetName=3V3_8316 Pin=R8-1
+Removed Pin From Net: NetName=3V3_8316 Pin=R12-1
+Removed Pin From Net: NetName=3V3_8316 Pin=R15-1
+Removed Pin From Net: NetName=3V3_8316 Pin=R33-1
+Removed Pin From Net: NetName=3V3_8316 Pin=R38-1
+Added Pin To Net: NetName=3V3_8208_DUT Pin=R2-1
+Added Pin To Net: NetName=3V3_8208_DUT Pin=R4-1
+Added Pin To Net: NetName=3V3_8208_DUT Pin=R8-1
+Added Pin To Net: NetName=3V3_8208_DUT Pin=R12-1
+Added Pin To Net: NetName=3V3_8208_DUT Pin=R15-1
+Added Pin To Net: NetName=3V3_8208_DUT Pin=R33-1
+Added Pin To Net: NetName=3V3_8208_DUT Pin=R38-1

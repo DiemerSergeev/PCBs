@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCCP_IN Pin=X4-7
+Removed Pin From Net: NetName=2.5V Pin=X4-8
+Removed Pin From Net: NetName=5V Pin=X4-9
+Added Pin To Net: NetName=5V Pin=X4-49
+Added Pin To Net: NetName=VCCP_IN Pin=X4-50
+Added Pin To Net: NetName=2.5V Pin=X4-51

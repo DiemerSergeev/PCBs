@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SCL_F Pin=X3-1
+Removed Pin From Net: NetName=SDA_F Pin=X3-2
+Removed Pin From Net: NetName=ADD1_F Pin=X3-4
+Removed Pin From Net: NetName=ALERT_F Pin=X3-5
+Added Pin To Net: NetName=ALERT_F Pin=X3-1
+Added Pin To Net: NetName=ADD1_F Pin=X3-2
+Added Pin To Net: NetName=SDA_F Pin=X3-4
+Added Pin To Net: NetName=SCL_F Pin=X3-5
+Change Differential Pair Positive Net Name : Old Net Name=DX_MAX_KY_P New Net Name=DX_MAX_KY_P

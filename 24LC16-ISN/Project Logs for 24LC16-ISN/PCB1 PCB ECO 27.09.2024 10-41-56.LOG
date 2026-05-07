@@ -1,0 +1,4 @@
+Added Component: Designator=X5(BNC-JR)
+Added Pin To Net: NetName=SDA_F Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X5-2
+Added Member To Class: ClassName=Sheet1 Member=Component X5 BNC-JR

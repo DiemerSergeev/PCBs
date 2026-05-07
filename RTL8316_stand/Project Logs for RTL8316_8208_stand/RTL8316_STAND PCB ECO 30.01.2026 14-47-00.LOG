@@ -1,0 +1,4 @@
+Added Component: Designator=L3(CD43_Inductor)
+Added Pin To Net: NetName=AGND Pin=L3-1
+Added Pin To Net: NetName=GND Pin=L3-2
+Added Member To Class: ClassName=POWER_TOP Member=Component L3 2.2 לךֳם

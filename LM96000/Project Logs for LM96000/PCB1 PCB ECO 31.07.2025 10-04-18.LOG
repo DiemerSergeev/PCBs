@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=2.5V Pin=X2-15
+Removed Pin From Net: NetName=3.3V Pin=X2-16
+Removed Pin From Net: NetName=3.3V Pin=X4-8
+Removed Pin From Net: NetName=2.5V Pin=X4-9
+Removed Pin From Net: NetName=5V Pin=X4-10
+Added Pin To Net: NetName=3.3V Pin=X2-15
+Added Pin To Net: NetName=2.5V Pin=X2-16
+Added Pin To Net: NetName=2.5V Pin=X4-8
+Added Pin To Net: NetName=5V Pin=X4-9

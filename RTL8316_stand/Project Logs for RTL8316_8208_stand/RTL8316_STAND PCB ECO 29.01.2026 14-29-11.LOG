@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=P7TXD Pin=DD1-123
+Removed Pin From Net: NetName=P7TXD Pin=R26-2
+Added Pin To Net: NetName=P7TXD Pin=DD1-125
+Added Pin To Net: NetName=P7TXD Pin=R28-2
+Added Pin To Net: NetName=NetDD1_123 Pin=DD1-123
+Added Pin To Net: NetName=NetDD1_123 Pin=R26-2
+Added Net: Name=NetDD1_123
